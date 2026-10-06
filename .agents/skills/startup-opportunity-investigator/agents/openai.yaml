@@ -1,0 +1,4 @@
+interface:
+  display_name: "Startup Opportunity Investigator"
+  short_description: "Investigate ideas and resume with customer evidence"
+  default_prompt: "Use $startup-opportunity-investigator to investigate this opportunity, save the findings, and plan the next useful customer tests."
