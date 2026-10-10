@@ -1,0 +1,4 @@
+interface:
+  display_name: "Startup Customer Connect"
+  short_description: "Prepare customer conversations, sales and negotiation"
+  default_prompt: "Use $startup-customer-connect to find suitable customer contact routes and prepare the next conversation for this opportunity."

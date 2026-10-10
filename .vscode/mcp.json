@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "tavily": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/.vscode/mcp/tavily.mjs"],
+      "envFile": "${workspaceFolder}/.env",
+      "env": {
+        "MCP_REMOTE_CONFIG_DIR": "${workspaceFolder}/.vscode/mcp/.auth"
+      }
+    }
+  }
+}

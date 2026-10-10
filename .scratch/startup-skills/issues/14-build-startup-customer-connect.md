@@ -4,8 +4,8 @@ Parent: [Design the startup skill suite and ship the first scout](../map.md)
 Labels: wayfinder:task
 Type: task
 Mode: AFK
-Status: open
-Assignee: unassigned
+Status: resolved
+Assignee: Codex
 Blocked by: 08, 11, 13, 15
 
 ## Question
@@ -31,3 +31,17 @@ Completion requires:
 - Structural checks, corrections for observed failures, implementation links, check results, and remaining limits recorded in the answer.
 
 Implementing and testing preparation does not authorize sending messages, spending, contacting real people, or running a real startup experiment. Use isolated fixtures for behavioral checks.
+
+## Answer
+
+Resolved 2026-10-10. Implemented [startup-customer-connect](../../../.agents/skills/startup-customer-connect/SKILL.md) with [discoverable UI metadata](../../../.agents/skills/startup-customer-connect/agents/openai.yaml), following skill-creator and writing-for-agents. It loads the current opportunity, offer, tests, evidence and history; finds appropriate people and supported routes; and prepares learning conversations, sales discussions or negotiation according to the immediate request. Missing addresses, uncertain buyer authority and undecided founder terms remain explicit. The user chooses contacts, actions and acceptable terms.
+
+The skill saves preparation in the existing opportunity's `connections/` records and uses the common intake for actual replies or meeting notes. Originals, event identity, corrections, conflicting accounts and history survive the return to the investigator. Reassessment is either explicitly pending or performed by the investigator when requested; preparation never becomes proof of outreach, purchase or demand.
+
+Extended the existing [contact-preparation template](../../../docs/startup-skills/templates/contact-preparation.md) with field-specific provenance, action state, purpose-specific material, observation capture and a clear return handoff. The single shared [record guide](../../../docs/startup-skills/record-guide.md#use-the-templates) gained a narrow rule for portable record links after a temporary-path symlink issue was observed and corrected. No duplicate guide, source catalog, glossary, provider adapter or setup dependency was introduced.
+
+Validation is recorded in [Startup customer connect checks](../checks/startup-customer-connect.md). Skill-creator validation, generated UI metadata comparison, independent contract review and runtime-resource links passed. Five independent executions covered museum learning with missing named emails, agency sales/negotiation with inferred vendor details, consumer recruitment in Brazilian Portuguese, duplicate/contrary reply intake, and a fresh-session investigator continuation. Parent checks verified original artifacts, unchanged result identity, preserved prior findings/calculations/tests, and all 204 links in a relocated copy of the final workspace.
+
+The checks used isolated fictional fixtures. They establish preparation and record-continuity behavior, not live market coverage or contact accuracy. Existing dated tool status and public/human-assisted fallbacks remain in [SETUP.md](../../../SETUP.md) and [tool routing](../../../docs/startup-skills/tools.md); this task did not retest or broaden Hunter/Apollo access or assume VS Code's Tavily configuration is exposed in every client. No messages, purchases, commitments or live experiments were made.
+
+Example invocation: `$startup-customer-connect` — “Prepare learning conversations for `opportunities/<name>`” or “Prepare this sales meeting using the saved offer and replies.” No newly exposed design gap requires another ticket. This completes the required three-skill implementation floor of the map; optional extensions remain future work.

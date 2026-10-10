@@ -1,7 +1,7 @@
 # Design the startup skill suite and ship the first scout
 
 Labels: wayfinder:map
-Status: open
+Status: resolved
 
 ## Destination
 
@@ -14,6 +14,7 @@ A research-backed blueprint for a startup skill suite covering discovery, valida
 - **Customer connection, expanded 2026-10-03:** the user agreed the name `startup-customer-connect` and requires its implementation in this map. [Agree the startup skill suite blueprint](issues/08-decide-suite-blueprint.md) owns the detailed contract; the existing [commercial-coverage decision](issues/05-decide-commercial-coverage.md#investigation-is-a-repeatable-loop-with-saved-work) owns its relationship to repeat investigation. This scope expansion authorizes building the skill, not actual outreach.
 - **Execution override:** the user explicitly expanded this map beyond wayfinder's planning default. Its destination includes implementing and checking `startup-idea-scout`, `startup-opportunity-investigator`, and, following the user's 2026-10-03 instruction, `startup-customer-connect`. Their contracts and tool choices are settled in [Agree the startup skill suite blueprint](issues/08-decide-suite-blueprint.md#answer). Task tickets may deliver all three authorized skills under this override. On 2026-10-03, the user also requested setup of the selected supporting tools before the skill build tasks: manual guidance by default, agent execution of individual steps when delegated, and a very short root-level `SETUP.md` explaining the actual setup and reasons.
 - **Founder situation:** starting solo; considering a team only after acquiring a few customers. Surface delivery effort, capital needs, customer access, and dependencies as facts or explicit assumptions. Do not turn solo status into an automatic sector or business-model exclusion. Weekly time, budget, funding preference, and income goals are unspecified; do not inherit the old project's limits or block broad discovery to obtain them.
+- **Tool setup resumed, 2026-10-10:** the user requested finishing Hunter, Tavily, and Apollo setup, superseding Tavily's earlier deferral. Account evidence, remaining connection checks, and manual steps stay in [Guide and verify the selected tool setup](issues/13-guide-tool-setup.md); no paid overages or outreach are authorized.
 - **No fixed market preference, clarified 2026-10-03:** choose and compare markets according to each idea and the user's direction. India, the US, other developed markets, and other relevant markets remain eligible. The user highlighted the potential relevance of the US and other developed markets for SaaS/technology; this does not establish a US-first rule. This explicitly supersedes the earlier India-first interpretation for customer connection. Apply the same open-market scope to scouting, investigation, contact sources, and tool trials.
 - **Opportunity scope, clarified 2026-10-01:** include all kinds of software, AI, and similar technology ventures in any industry. SaaS is an example, not a required format; do not limit discovery to SaaS, AI, technology-sector customers, or a closed list of software categories. Exclude non-software businesses such as manufacturing cars; software and similar technology serving those industries remain eligible. This explicit user preference replaces the earlier unrestricted business-type scope; do not add further hidden preference or founder-fit filters. Geographies remain open: India, the US, and other markets are eligible according to the opportunity. The user can reject individual ideas at selection. Evaluate and expose contrary evidence honestly; eligibility does not make every idea attractive or every hypothesis true.
 - **Fresh design:** `my_old_resoures/` is reference material. Its complete review is retained in [Assess what the passive-site references contribute](issues/01-assess-legacy-references.md). Do not treat its restrictions, scripts, source list, or historical benchmarks as the specification.
@@ -43,16 +44,16 @@ A research-backed blueprint for a startup skill suite covering discovery, valida
 - [Try the scout output before implementing the skill](issues/09-prototype-scout-output.md#answer): explain each product with a concrete example, compare shared questions in a table, and include one direct comparison with reasons and trade-offs; detailed records remain optional reading.
 - [Build and verify startup idea scout](issues/10-build-startup-idea-scout.md#answer): implemented the scout and shared resources; structural and four independent behavioral checks passed using existing web tools, with Tavily deferred by the user.
 - [Build and verify the opportunity investigation skill](issues/11-build-opportunity-investigation.md#answer): implemented the investigator; four independent checks passed for scout handoff, direct research and fresh-session file/pasted-result continuation, preserving history and avoiding duplicate evidence with Tavily still deferred.
+- [Guide and verify the selected tool setup](issues/13-guide-tool-setup.md#answer): verified all three keys and Tavily retrieval, registered and tested Tavily locally for VS Code; Hunter/Apollo MCP and unavailable contact capabilities are explicitly deferred with public-source fallbacks.
+- [Build and verify startup customer connect](issues/14-build-startup-customer-connect.md#answer): implemented the third required skill; five isolated checks passed for learning, sales, contact gaps and the return-to-investigation loop, with original evidence, history and portable links preserved.
 
 ## Not yet specified
 
-- Follow-up investigations prompted by gaps or disagreement in the initial research; only create them when a concrete decision needs an answer.
-- Model-specific exceptions and specialist resources whose necessity becomes visible after the suite's responsibilities and example outputs are discussed.
-- Additional source adapters or automation justified by the scout prototype or behavioral checks, rather than by the existence of old scripts.
-- Any additional skill implementation the user may choose beyond scouting, deeper opportunity investigation, and customer connection; these three skills are the required implementation floor.
+None required to reach this destination. All child tickets are resolved; the implementation checks exposed no remaining design question requiring another ticket.
 
 ## Out of scope
 
+- **Future suite extensions:** additional skills, model-specific guidance, specialist resources, source adapters or follow-up research may be scoped when real use reveals a concrete need. No such extension is needed to complete this map; deferred optional provider work remains recorded in [Guide and verify the selected tool setup](issues/13-guide-tool-setup.md#answer).
 - Scouting non-software businesses such as manufacturing cars; the user's scope is software, AI, and similar technology across any industry, including technology serving physical industries.
 - **Future infrastructure map:** automate building and provisioning the infrastructure appropriate to a selected startup idea. Retain this as the next separate effort, with prerequisites identified by the current blueprint.
 - **Future first-customer map:** execute customer acquisition after that, including choosing leads, outreach, and closing the first customer. Designing customer, marketing, and sales capabilities now does not execute that later effort.

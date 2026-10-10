@@ -1,0 +1,8 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Local MCP dependencies and authentication state
+.vscode/mcp/node_modules/
+.vscode/mcp/.auth/

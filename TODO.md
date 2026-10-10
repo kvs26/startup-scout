@@ -1,1 +1,6 @@
-- Connect and verify Tavily for the startup skills later.
+- [x] Hunter account and API key setup done; key and domain lookup verified (2026-10-10).
+- [x] Apollo account and API key setup done; key verified. People Search remains blocked on the Free plan, even with a master key (2026-10-10).
+- [x] Tavily API key saved and authentication verified (2026-10-10).
+- [x] Tavily search, extraction, mapping, and bounded crawl verified through its official MCP server (2026-10-10).
+- [x] Register Tavily locally in `.vscode/mcp.json`; the exact configured process passed initialization, four-tool discovery and a live search using `.env` (2026-10-10). Start it from VS Code's MCP server list; UI activation has not been observed.
+- [ ] Optional: revisit Hunter/Apollo MCP after provider access is available. Hunter returned DNS error 1000; Apollo denied the client (1010), and its People Search is separately unavailable on this Free plan. See [setup details](SETUP.md).
