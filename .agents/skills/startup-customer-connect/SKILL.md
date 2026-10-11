@@ -13,6 +13,8 @@ Examples: “Find people to learn from about this opportunity,” “Prepare thi
 
 Resolve the repository root from this skill's location (`../../..`). Read the shared [record guide](../../../docs/startup-skills/record-guide.md) and [tool routing](../../../docs/startup-skills/tools.md). The root [glossary](../../../CONTEXT.md) owns domain terms. Runtime work does not require the planning tracker or old project. An explicitly supplied output workspace changes the record destination, not the shared-resource location.
 
+Read the shared [founder profile](../../../FOUNDER-PROFILE.md) to tailor customer routes and preparation to the user's market, experience, access and communication preferences. Automatically maintain it under the record guide's [profile rules](../../../docs/startup-skills/record-guide.md#founder-profile) when interactions supply new relevant information.
+
 Resolve the supplied opportunity name/path against existing summaries. Load its current summary, investigation, offer/terms, unresolved customer questions, selected tests, relevant results, prior preparations and history. Use saved current findings over an older scouting report. Selection records the user's choice; it does not establish demand.
 
 Infer **learning**, **sales preparation**, **negotiation**, or **returned results** from the request and records. Clarify only ambiguity that materially changes the work. Preserve the chosen market, customer group and business format; there is no default country, industry or subscription model. Ask for relationship context or the user's acceptable terms only when they affect the conversation. Work that does not depend on the answer can continue.

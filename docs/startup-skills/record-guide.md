@@ -2,6 +2,24 @@
 
 Read this guide when creating, resuming, or updating an opportunity or scouting report. These records carry work between scouting, investigation, and customer-connection preparation. Use the meanings in the root [glossary](../../CONTEXT.md). Templates below are writing aids, not forms the user must complete.
 
+## Founder profile
+
+The root [FOUNDER-PROFILE.md](../../FOUNDER-PROFILE.md) is the shared source for the founder's background, skills, learning gaps, interests, time, budget, customer access and preferences. Read it at the start of scouting, investigation and customer-connection work. If absent, proceed with supplied information and explicit unknowns. An output-workspace override changes opportunity destinations, not this profile's location; use another profile only when the user supplies one.
+
+Use the profile to tailor discovery, domain-learning explanations, cost assumptions, customer tests and conversation preparation. Keep business evidence in the opportunity records. A founder preference or capability changes fit, not evidence that customers will buy. The current explicit request governs the task; treat an alternative market or model for one task as task-specific unless the user makes it a lasting preference.
+
+Automatically maintain the profile during interactions through these skills:
+
+- Update it in the same turn when the user supplies a relevant new fact, correction, lasting preference, completed learning or experience, or when a concrete artifact demonstrates a relevant capability. Routine updates within this authorization need no repeated confirmation.
+- Preserve the distinction between self-report, observed work, interest, plans and unassessed knowledge. Describe what a completed activity supports: studying a topic is not proof of reliable professional delivery, and publishing a site does not establish traffic or revenue. An AI-generated conclusion about the founder is not new evidence.
+- Reuse recorded answers and ask only about material gaps. Keep ambiguous or conflicting information qualified; clarify consequential conflicts while continuing unaffected work. The latest clear correction updates the current field and leaves a short explanation of what changed.
+- Immediately reread the profile before writing, merge newer additions, update its date and append a concise source/change note for material changes. Preserve dates, currencies, billing periods and the context of capability claims. Repeated answers or unchanged information require no new entry.
+- Maintain one profile rather than copies inside opportunity folders or skill files. Save only background relevant to this startup work. Profile updates alone do not trigger rewriting existing opportunities, historical reports or unrelated files, and do not authorize external actions.
+
+When profile information affects a recommendation, name the relevant requirement and fit or learning gap in everyday language. Carry the profile reference in handoffs instead of creating another current copy.
+
+Profile changes use its short source/change notes. Dated opportunity rounds and history files below apply to changes in opportunity records.
+
 ## Find the same opportunity again
 
 Keep each opportunity in `opportunities/<stable-name>/`, with its name and folder identity in `summary.md`. Search existing summaries before creating a folder. A price or feature revision stays in the same record. A different customer group or problem gets a linked sibling folder when it needs its own investigation; explain the relationship and retain each observation's original context.
@@ -12,7 +30,7 @@ Use readable Markdown and add files only when they contain useful work:
 
 | Record | Location inside the opportunity | Template |
 | --- | --- | --- |
-| Short current view | `summary.md` | [Opportunity summary](templates/opportunity-summary.md) |
+| Self-contained current business explanation and assessment | `summary.md` | [Opportunity summary](templates/opportunity-summary.md) |
 | Claims and original research | `research.md` | [Research](templates/research.md) |
 | Inputs and calculations | `economics.md` | [Economics](templates/economics.md) |
 | Proposed customer test | `tests/<test-id>.md` | [Customer test](templates/customer-test.md) |
@@ -20,7 +38,9 @@ Use readable Markdown and add files only when they contain useful work:
 | Earlier outputs and explanation of changes | `rounds/<dated-round-id>.md` and `history.md` | [Round and history](templates/round-history.md) |
 | Contacts and conversation preparation | `connections/<preparation-id>.md` | [Contact preparation](templates/contact-preparation.md) |
 
-Keep cross-opportunity reports in `scouting-runs/<dated-run-id>.md`, using the [scouting report](templates/scouting-report.md). Keep the short current overview at `opportunities/comparison.md`, using the [comparison](templates/comparison.md). Planning tickets remain outside runtime records.
+Keep each scout round's search trail and dated assessment in `scouting-runs/<dated-run-id>.md`, using the [scouting report](templates/scouting-report.md). Scouting presents one opportunity at a time; its `summary.md` is the primary decision page. It explains the customer workflow, offer, evidence, alternatives, delivery, costs, domain learning and founder fit on the page, with links for detailed evidence. A summary has no fixed brevity target.
+
+Use `opportunities/comparison.md` and the [comparison template](templates/comparison.md) for an explicitly requested comparison of saved ideas. A one-idea round does not create this file. When later work changes an opportunity included in an existing comparison, update or qualify the affected entry. Planning tickets remain outside runtime records.
 
 ## Evidence has one home
 
@@ -54,7 +74,7 @@ Reassess affected claims against both supporting and conflicting entries. Explai
 
 Use ISO dates (`YYYY-MM-DD`) and include the time and time zone when ordering matters. A dated run/round filename may use `YYYY-MM-DD-short-topic`, with an unused suffix for another round that day. Distinguish when a finding was assessed from when the record was edited.
 
-Before changing a current view, preserve its earlier output in a dated round unless an existing saved round already contains it. A saved round records the proposition, findings, recommendation, user choice, and limitations at that time, with stable evidence links. When changing calculations or test plans, retain the earlier inputs/results or test procedure and interpretation criteria in that round or a linked versioned artifact. Links to mutable current files alone do not preserve earlier conclusions or designs. Append a short `history.md` entry explaining what changed, why, and the responsible evidence/round links. Keep completed reports and earlier accounts; append a linked correction rather than silently replacing their history.
+Before changing a current view, preserve its earlier output in a dated round unless an existing saved round already contains it. A saved round records the proposition, findings, recommendation, user choice, and limitations at that time, with stable evidence links. When changing calculations or test plans, retain the earlier inputs/results or test procedure and interpretation criteria in that round or a linked versioned artifact. Links to mutable current files alone do not preserve earlier conclusions or designs. Append a short `history.md` entry explaining what changed, why, and the responsible evidence/round links. Keep completed reports and earlier accounts; append a linked correction rather than silently replacing their history. An explicit request to delete records overrides this preservation convention within the requested scope; remove obsolete references without recreating the deleted material as a new archive.
 
 Immediately before writing, reread each destination and any current findings used to derive it. Merge changes made since the initial read, preserve unrelated additions, and check IDs/filenames again. If an overlapping change cannot be reconciled, save the new detail separately and ask about the specific conflict rather than overwrite it. A stale full-file rewrite can erase another session's work.
 
@@ -62,7 +82,7 @@ For continuation, use the saved scouting report for its brief, searches, coverag
 
 ## Current comparison and handoffs
 
-Date `opportunities/comparison.md` and make it understandable on its own: explain each product and an illustrative use, compare the same business questions, then directly explain the relative recommendation and what could change it. Show important doubts, contrary evidence, access failures, and unfinished work on the page. Keep detailed source entries and calculations in linked records. There is no automatic selection, overall startup score, fixed number of candidates, or unsupported profit/cost ranking.
+When a comparison is requested, date `opportunities/comparison.md` and make it understandable on its own: explain each saved product and an illustrative use, compare the same business questions, then directly explain the relative recommendation and what could change it. Show important doubts, contrary evidence, access failures, and unfinished work on the page. Keep detailed source entries and calculations in linked records. There is no automatic selection, overall startup score, or unsupported profit/cost ranking. The comparison does not authorize discovering a batch of new ideas.
 
 When one opportunity changes, update its affected overview content and explain whether the others were reassessed. Retain the last comparison date where useful; mark older/unreviewed findings. A partial update is not a new full comparison. Keep earlier scouting reports available as historical views.
 
