@@ -1,4 +1,4 @@
-Template for `opportunities/comparison.md`. Follow the [record guide](../record-guide.md); replace `{{...}}` and remove this instruction. Explain ideas before comparing them. Adapt the number of columns to actual candidates; no candidate quota applies.
+Template for `opportunities/comparison.md`. Follow the [record guide](../record-guide.md) and [explanation guide](../explaining-ideas.md); replace `{{...}}` and remove this instruction. Explain ideas before comparing them. Adapt the number of columns to actual candidates; no candidate quota applies.
 
 # {{Current opportunity comparison}}
 
@@ -9,9 +9,11 @@ Comparison basis: {{run date(s), current findings, and which ideas were/weren't 
 
 ### {{Idea name}}
 
-**The idea:** {{Who would use it, the customer work involved, what the product would do, and where.}}
+**The business:** {{Name the customer, their situation and what we would sell. Make the delivery model clear; retain any supplied market constraint.}}
 
-**Example use:** {{Concrete sequence of someone using it. Label an imagined example as an illustration, not observed behavior.}}
+**Example use:** {{Concrete input → product/provider actions → useful output. Explain who does the work and makes decisions. Label invented details as an imagined example.}}
+
+**Who would pay, and for what?** {{Payer, unit/deliverable and proposed charging basis. Include only known/proposed price and terms; keep missing facts explicit.}}
 
 **Why consider it?** {{Explain the strongest problem evidence and the main reason existing solutions might make it unnecessary. Link canonical findings; do not require the reader to open them to understand this explanation.}}
 

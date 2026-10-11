@@ -40,15 +40,17 @@ Before ending research, check whether accessible follow-up could change the reco
 
 Use the record guide's templates as aids, filling only useful records. Save authoritative evidence in `opportunities/<stable-name>/`, a new dated report in `scouting-runs/`, and the derived current overview in `opportunities/comparison.md`. Preserve earlier outputs and record what changed. Re-read affected files immediately before updating them so concurrent/newer findings survive.
 
+When writing summaries, comparison explanations or the final answer, follow [explaining ideas](../../../docs/startup-skills/explaining-ideas.md). Complete its comprehension check before saving: the reader should be able to picture the customer's task, the work performed, the deliverable and what a payment buys without opening research links.
+
 The overview must stand alone in this order:
 
-1. **Explain each idea:** who uses it, what the product does, and a concrete example of its use. Label an imagined example as an illustration. Explain the customer's work before the evidence, then briefly state the support and the strongest reason this product might be unnecessary.
+1. **Explain each idea:** present the business and concrete use following the explanation guide, then briefly state the support and the strongest reason this product might be unnecessary.
 2. **Compare shared questions in a table:** problem evidence, reasons to change from alternatives, possible payer/income, customer access, build and support work, costs or unpriced requirements, and the biggest doubt. Link findings to their saved detail.
 3. **Make an explicit comparison:** explain which idea deserves investigation before another, why the evidence or delivery requirements differ, the trade-offs, and what could change the recommendation. Equal uncertainty or a conditional recommendation is acceptable. With only one candidate, compare the proposed approach with the current workaround or a relevant variation; do not invent another candidate. With none, explain the findings and next search direction.
 4. **Show unfinished work:** material unknowns, access limits, older/unreviewed findings, omitted directions and why this round stopped. Important limitations belong here even when details are linked elsewhere.
 5. **Link optional detail:** current opportunity summaries and the dated run. The reader need not open them to understand the products and trade-offs.
 
-Use everyday words. Avoid unsupported cheapest/most-profitable/highest-demand rankings and overall startup scores. Keep recommendations separate from the user's selection.
+Avoid unsupported cheapest/most-profitable/highest-demand rankings and overall startup scores. Keep recommendations separate from the user's selection.
 
 On continuation, current opportunity evidence governs the new comparison. Old runs preserve what was searched and concluded then; they must not overwrite later findings. Refresh or qualify affected overview entries and identify entries not reassessed, without claiming a new full comparison. Leave earlier reports intact.
 
