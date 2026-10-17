@@ -4,13 +4,13 @@ Read this when writing an opportunity summary, a comparison's idea explanations,
 
 ## Build the explanation around a real task
 
-Lead with who the customer is, what they are trying to do, and what we would sell to help. Use people and actions: who sends, checks, approves, receives and pays. Make clear whether the offer is software the customer operates, a service we deliver with software, or another business model. Describe the proposed first version; distinguish optional later additions.
+Lead with a particular customer situation that makes the business question matter. Show what the customer is trying to do, where the work gets stuck, and what we would sell to help. Use people and actions: who sends, checks, approves, receives and pays. Make clear whether the offer is software the customer operates, a service we deliver with software, or another business model. Describe the proposed first version; distinguish optional later additions.
 
 Walk through one concrete use before discussing market evidence. Start with the customer's situation and input, show the important actions, and end with a specific output they can use. Explain what changes for the customer. For example, name the file's contents rather than merely promising an “edition.” Separate automated work, human work and customer decisions where they affect delivery or value.
 
 State who would pay, what the payment buys, and the charging basis: per project, license, month, transaction or another relevant unit. Explain price and payment terms to the extent known. A fee with an unset price can still be explained clearly. Label a proposed payer or model as a proposal when evidence is missing.
 
-Write the business explanation first; put record metadata and research findings afterward. Adapt the prose and length to the idea. A table is useful for comparing ideas after the reader understands them.
+Write the business explanation in connected prose first; put record metadata and research findings afterward. Let each new point answer a question raised by the situation before it. A concrete detail should help explain the customer's work or the decision, rather than decorate the story. Adapt the prose and length to the idea. A table is useful for comparing ideas after the reader understands them.
 
 ## Make unfamiliar language earn its place
 
@@ -48,6 +48,6 @@ Read the explanation without following links. Can you answer these questions usi
 - How is this task handled now, and what reason to choose the proposed offer is supported or still unproven?
 - Which details are observed, proposed, imagined or unknown?
 
-Revise any answer that depends on unexplained terminology, a missing step or unstated background. Read the revision aloud to catch phrases you would not use in conversation. This is a comprehension check, not proof that the business works or that a reader has understood it.
+Revise any answer that depends on unexplained terminology, a missing step or unstated background. Then cover the headings and links and read the opening as an unfamiliar reader: can you picture the customer's situation and retell what the offer would do? If the opening sounds like a list of research status labels, rewrite it as an explanation. Read the revision aloud to catch phrases you would not use in conversation. This is a comprehension check, not proof that the business works or that a reader has understood it.
 
-Basis: [research on clear business explanations](research/clear-business-explanations.md), drawing on original guidance from Orwell, Zinsser, Pinker and Graham. The workflow and questions above are our synthesis for startup decisions.
+Basis: [research on clear business explanations](research/clear-business-explanations.md) and [research on readable scout summaries](research/scout-readability.md), drawing on original writing, linguistics and psychology sources. The workflow and questions above are our synthesis for startup decisions.

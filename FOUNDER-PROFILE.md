@@ -1,6 +1,6 @@
 # Founder profile
 
-Last updated: 2026-10-11
+Last updated: 2026-10-15
 
 Shared background for startup scouting, opportunity investigation and customer-connection preparation. This profile records the user's own statements and preferences from the October 11 interview and subsequent startup-skill interactions. Capability has not been independently assessed; interests, intended learning and business goals retain that status.
 
@@ -44,6 +44,7 @@ Information on those sites was checked mainly through AI research and AI verific
 - Reports little industry workflow experience beyond the two basic sites. No established professional expertise in a specific customer industry has been supplied.
 - Describes being semi-professional in table tennis. This is practical playing experience; coaching, club operations, event management and sports-business knowledge remain unassessed.
 - Enjoys studying mathematics, science and anthropology, and likes reading books. These are learning interests; specific topics, depth and applied competence have not been assessed.
+- Current exploration: problems that could be sold to researchers. Wants thorough research while keeping the difficulty of learning the customer's domain visible. This is the scope of the current search, not an established research qualification or a permanent restriction to this market.
 
 When explaining an idea, identify the actual knowledge needed for its customer task, which parts are unfamiliar, and a practical first learning step. Match learning and specialist requirements against the stated time and budget, using research rather than assuming a topic can be mastered within the preferred learning period.
 
@@ -56,6 +57,7 @@ When explaining an idea, identify the actual knowledge needed for its customer t
 ## Working preferences
 
 - Wants everyday language that explains the customer's situation, what the product or provider does, what is delivered and how payment works.
+- Prefers a natural, direct, specific explanatory voice. Bill Bryson's way of making hard subjects understandable is a writing reference; clear meaning matters more than polished sounding phrases.
 - Wants concrete examples clearly distinguished from actual customer evidence.
 - Wants summaries to explain domain knowledge needed and what to learn before implementation.
 - Wants one researched idea at a time, with a substantial summary that explains the business and assesses fit with their experience, learning limits, customer access, time and budget.
@@ -79,5 +81,7 @@ Ask about these only when they would change a decision:
 
 - **2026-10-11 — Initial profile created at the user's request.** Source: this startup-skill interview. Questions 1–6 and the freeform account supplied education, projects and experience; questions 7–12 supplied solo preferences, time, business model, outreach and learning limits; questions 13–18 supplied budget, customer support, milestones, India as the first market and reliance on AI for information checks. Question 16 clarified that ₹5,000 is a monthly budget. Later detailed answers qualify the earlier broad statement about independently judging quality.
 - **2026-10-11 — Scouting preferences clarified and earlier proposals declined.** Source: the user's request to delete the six existing opportunities, citing shallow summaries and poor fit with their profile, and to produce only one idea at a time. Declined topics: family-letter editions, knitting-pattern checks, game-localization release checks, machine-shop order checks, subcontractor extra-work capture and wholesale message orders. This records the user's choice, not evidence about market demand.
+- **2026-10-11 — Researcher-focused search requested.** Source: the user's request to find real problems they could sell to researchers, search thoroughly, and assess whether difficult domain knowledge would be practical to learn. Existing India-first, time, budget and learning preferences remain the basis for this round; no researcher relationships or new domain experience were supplied.
+- **2026-10-15 — Writing preference sharpened.** Source: the user's response to the fictional agency-invoice summary. They asked for natural, direct and specific explanations and named Bill Bryson as a reference for making difficult subjects understandable.
 
 Future material changes belong here as short dated notes identifying the new user statement or supporting artifact. Current sections carry the latest information.

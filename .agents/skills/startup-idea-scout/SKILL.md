@@ -65,7 +65,7 @@ Before saving a summary, check that the reader can identify the knowledge needed
 
 Use the record guide's templates as aids, filling only useful records. Save canonical evidence in `opportunities/<stable-name>/research.md`, the main decision page in that folder's `summary.md`, and the search trail and dated conclusion in `scouting-runs/`. A normal scouting round creates or updates one opportunity; it does not require `opportunities/comparison.md`. Preserve earlier outputs and record what changed unless the user explicitly requests deletion. Re-read affected files immediately before updating them so concurrent/newer findings survive.
 
-When writing the summary or final answer, follow [explaining ideas](../../../docs/startup-skills/explaining-ideas.md) and use the [summary template](../../../docs/startup-skills/templates/opportunity-summary.md). The summary is a self-contained explanation and assessment, not a teaser for `research.md`. Use enough connected prose and concrete detail to teach an unfamiliar business; brevity is useful only when it preserves meaning.
+When writing the summary or final answer, follow [explaining ideas](../../../docs/startup-skills/explaining-ideas.md) and use the [summary template](../../../docs/startup-skills/templates/opportunity-summary.md). The summary is a self-contained explanation and assessment, not a teaser for `research.md`. Open with a customer doing recognizable work, show where it gets stuck, and explain what the offer would change before reporting research status. Use enough connected prose and concrete detail to teach an unfamiliar business; brevity is useful only when it preserves meaning.
 
 The summary must let the reader understand and assess:
 
