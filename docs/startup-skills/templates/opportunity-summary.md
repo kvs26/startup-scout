@@ -2,15 +2,15 @@ Template for `opportunities/<stable-name>/summary.md`. Follow the [record guide]
 
 # {{Opportunity name}}
 
-{{Open in connected prose. Show a particular customer's situation and what they are trying to get done. Describe where the work gets stuck, then explain what we would sell and how it helps. Explain whether the customer operates software or buys a service we deliver. State a supplied market constraint and label proposed roles.}}
+{{Open in connected prose. Show a particular customer's situation and what they are trying to get done. Describe the difficulty or desired experience, then explain what we would sell and why it might be chosen. Explain whether the customer operates software or buys a service we deliver. State a supplied market constraint and label proposed roles.}}
 
 {{Walk through one use from the customer's starting input to the result they can use. Explain human work and approvals where relevant. Label an invented example as imagined.}}
 
 {{Explain who would pay, what one payment buys, and the proposed charging basis. Give a price and terms only to the extent known; say what remains unset. Distinguish optional additions. Link a related opportunity if relevant.}}
 
-## The customer's work and why this problem matters
+## The customer and what they want
 
-{{Explain the particular customer group, market and triggering situation. Walk through the present process using people and actions: who supplies information, does the work, checks it and uses the result? Explain unfamiliar terms. Describe the reported difficulty and consequence, its frequency if known, and the limits of applying that evidence to the target customer. Link canonical evidence near the claims.}}
+{{Explain the particular customer group, market and triggering situation. Walk through the present process using people and actions: who supplies information, does the work, checks it and uses the result? Explain unfamiliar terms. Describe the reported difficulty, desired experience or existing spending, its frequency if known, and the limits of applying that evidence to the target customer. Consumer enjoyment and other wants need no invented workflow failure. Link canonical evidence near the claims.}}
 
 ## What the first version would do
 
@@ -24,7 +24,7 @@ Template for `opportunities/<stable-name>/summary.md`. Follow the [record guide]
 
 {{Explain the strongest support and strongest contrary finding, with source context, date/market where material, and the limits of each. The reader should understand what the sources report without opening them. Distinguish original customer accounts, advertised capabilities, direct observations and assumptions.}}
 
-{{Describe the most relevant current product, manual process, service or reason to do nothing. Explain where it already solves the proposed problem, the work needed to switch, and the specific reason this offer might still be chosen. State which advantage is supported and which is an untested hypothesis. Keep a competitor's price distinct from our costs or an accepted price.}}
+{{Describe the most relevant current product, manual process, service or reason to do nothing. Explain where it already solves the proposed problem, the work needed to switch or adopt an additional product, and the specific reason this offer might be chosen on price, value, experience, audience fit, distribution or another relevant parameter. State which advantage is supported and which is an untested hypothesis. Keep a competitor's price distinct from our costs or an accepted price.}}
 
 ## How to find the first customers
 

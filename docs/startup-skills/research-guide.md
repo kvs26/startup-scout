@@ -2,9 +2,17 @@
 
 Use this guide to decide what a finding supports, which questions deserve more research, and what still needs customer evidence. The [source catalog](source-catalog.md) supplies starting places; the [record guide](record-guide.md) owns evidence storage. Use the terms in [the glossary](../../CONTEXT.md).
 
+## Open discovery: work backward from a buyer's job
+
+The scout's [discovery guide](../../.agents/skills/startup-idea-scout/references/discovery.md) owns the 50-idea deep-research minimum, atlas use, customer work/experience maps, completion audit and resumable campaigns. It includes business problems, consumer wants and existing spending. The sections below apply to evidence used by all three startup skills.
+
+## Decision at the end of a scout round
+
+The scout's [commercial assessment](../../.agents/skills/startup-idea-scout/references/commercial-assessment.md#decision-at-the-end-of-the-round) owns candidate promotion and stopping decisions. A researched reason to compete can support a candidate without a novel or unsolved problem; purchase and retention remain separate claims. Other skills continue their requested work from current records rather than rerunning the scout's selection gate.
+
 ## From a source to a claim
 
-An attributable complaint supports a reported experience in its original context. Read the account, date, relevant replies, suggested workarounds and resolutions. Keep geography, customer type and product/version limits. Several articles or list entries based on the same incident remain one underlying observation. Search snippets help locate evidence; inspect the underlying source before relying on its detail, or mark the claim as unverified.
+An attributable customer account, positive or negative, supports a reported experience in its original context. Read the account, date, relevant replies, suggested workarounds and resolutions. Keep geography, customer type and product/version limits. Several articles or list entries based on the same incident remain one underlying observation. Search snippets help locate evidence; inspect the underlying source before relying on its detail, or mark the claim as unverified.
 
 Different sources answer different questions:
 
@@ -20,13 +28,13 @@ Make each important claim traceable to supporting and contrary evidence and expl
 
 ## Follow-up that changes a decision
 
-Independent discovery starts from customer tasks and problems, including practitioner communities outside startup circles. Use the relevant market's local names and languages when useful. Follow the original source from any curated lead, and search beyond lists for other problems. Explain meaningful coverage gaps such as private communities or a digitally underrepresented customer group.
+Discovery can start from customer tasks, desired experiences or existing spending, including audiences outside startup circles. Use the relevant market's local names and languages when useful. Follow the original source from any curated lead, and search beyond lists for other problems. Explain meaningful coverage gaps such as private communities or a digitally underrepresented customer group.
 
 For promising ideas, investigate both the proposed opportunity and plausible explanations against it: an existing feature, a solved configuration issue, a cheap manual workaround, organizational causes, switching costs or satisfied users. A vendor already offering a feature challenges the claim that it is missing; it does not prove that every possible business in that market is unattractive. An old unresolved thread calls for checking the current product and linked issue/release history.
 
 Prioritize questions whose answers could change the next step. For example, if a complaint assumes offline use is impossible, follow product documentation and relevant practitioner replies before recommending a new offline product. If the answer depends on private usage or purchasing decisions, identify the missing customer observation instead of treating more web pages as a substitute.
 
-Scouting needs enough depth to compare customer/problem, alternatives, payer/revenue possibilities, access routes, initial delivery/support effort, material costs and dependencies. Investigation goes deeper into offer/payment terms, buying authority/process, acquisition, onboarding, continuing value, costs/cash timing and technical/data access. Apply questions to the business model; one-time licenses, usage fees, marketplaces and services enabled by software need not use subscription measures.
+Scouting needs enough depth to compare the customer motive, alternatives, reason to choose the offer, payer/revenue possibilities, acquisition routes, initial delivery/support effort, material costs and dependencies. Investigation goes deeper into offer/payment terms, buying authority/process, acquisition, onboarding, continuing value, costs/cash timing and technical/data access. Apply questions to the business model; one-time licenses, usage fees, marketplaces and services enabled by software need not use subscription measures.
 
 ## Numbers and delivery requirements
 

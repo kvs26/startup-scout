@@ -2,9 +2,9 @@
 
 Read this when writing an opportunity summary, a comparison's idea explanations, or the final explanation in chat. Assume the reader is new to the customer's work. The goal is that they can explain what the customer would buy after reading this page alone.
 
-## Build the explanation around a real task
+## Build the explanation around a customer situation
 
-Lead with a particular customer situation that makes the business question matter. Show what the customer is trying to do, where the work gets stuck, and what we would sell to help. Use people and actions: who sends, checks, approves, receives and pays. Make clear whether the offer is software the customer operates, a service we deliver with software, or another business model. Describe the proposed first version; distinguish optional later additions.
+Lead with a particular customer situation that makes the business question matter. Show what the customer wants to do or experience and what we would sell. A business may address a work difficulty, improve an existing paid choice or provide enjoyment, convenience, identity or companionship. Explain the actual buying motive without inventing an operational problem. Use people and actions: who sends, checks, approves, receives and pays. Make clear whether the offer is software the customer operates, a service we deliver with software, or another business model. Describe the proposed first version; distinguish optional later additions.
 
 Walk through one concrete use before discussing market evidence. Start with the customer's situation and input, show the important actions, and end with a specific output they can use. Explain what changes for the customer. For example, name the file's contents rather than merely promising an “edition.” Separate automated work, human work and customer decisions where they affect delivery or value.
 

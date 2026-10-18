@@ -1,4 +1,4 @@
-Template for an explicitly requested comparison of saved ideas in `opportunities/comparison.md`. Follow the [record guide](../record-guide.md) and [explanation guide](../explaining-ideas.md); replace `{{...}}` and remove this instruction. Explain ideas before comparing them. Adapt columns to the saved ideas being compared; a normal one-idea scout round does not use this template.
+Template for an explicitly requested comparison of saved ideas in `opportunities/comparison.md`. Follow the [record guide](../record-guide.md) and [explanation guide](../explaining-ideas.md); replace `{{...}}` and remove this instruction. Explain ideas before comparing them. Adapt columns to the saved ideas being compared; the scout’s required comparison of its researched pool uses its own campaign report template.
 
 # {{Current opportunity comparison}}
 

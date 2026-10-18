@@ -1,6 +1,6 @@
 # Survey correction follow-up — research
 
-Current assessment: 2026-10-11, Asia/Kolkata. Initially researched candidate; no user selection, customer interview, purchase or repeat-use result.
+Current assessment: 2026-10-17, Asia/Kolkata. Selected by the user for investigation on this date; no customer interview, purchase or repeat-use result.
 
 Scope: coordinating the investigation and resolution of flagged survey responses for Indian social, education and development research teams. The proposed first product imports an existing issue list and helps a coordinator assign, follow up and approve resolutions. Evidence about identifying errors is distinguished from evidence about buying this coordination product.
 
@@ -8,9 +8,9 @@ Scope: coordinating the investigation and resolution of flagged survey responses
 
 **Claim:** Survey quality review and field-team follow-up are real research tasks in India.
 
-**Assessment:** Well supported as a workflow by independent Indian practitioner descriptions, an education-study report and buyer-authored procurement requirements. These sources do not measure how many smaller teams find their current process inadequate.
+**Assessment and confidence:** High that Indian survey teams perform quality review and field follow-up; low that this is painful for the smaller teams targeted by the proposed offer. Independent practitioner descriptions, a study report, a buyer-authored request and a more recent large-study account support the workflow. They do not measure smaller-team dissatisfaction.
 
-**Evidence:** [E002](#e002), [E003](#e003), [E004](#e004), [E014](#e014).
+**Evidence:** [E002](#e002), [E003](#e003), [E004](#e004), [E014](#e014), [E022](#e022).
 
 **Next check:** Obtain a smaller team's actual issue list and walk through one recent survey day, including how supervisors returned explanations and who approved changes.
 
@@ -18,7 +18,7 @@ Scope: coordinating the investigation and resolution of flagged survey responses
 
 **Claim:** Delayed or fragmented communication about survey errors can create useful demand for better follow-up.
 
-**Assessment:** Supported in one historical Indian survey; unresolved for today's proposed customers. The strongest original study reports an intervention, with important before-and-after confounding. Do not infer a causal time-saving percentage or commercial demand.
+**Assessment and confidence:** Moderate that fragmented handoffs hurt at least one historical Indian survey; low that this persists in the proposed customer's current process. The original study reports an intervention, with important before-and-after confounding. The newer large-study account describes a response to quality issues, but does not report lost case handoffs. Do not infer a causal time-saving percentage or commercial demand.
 
 **Evidence:** [E001](#e001); procedural context in [E013](#e013). The study and its institutional project page would be the same underlying event, not independent replications.
 
@@ -26,23 +26,23 @@ Scope: coordinating the investigation and resolution of flagged survey responses
 
 ## C003
 
-**Claim:** A simple new survey checker or correction log would fill a missing capability.
+**Claim:** A new checker, correction log or shared case follow-up workspace would fill a missing capability.
 
-**Assessment:** Challenged. Free and paid alternatives already cover checking, review and correction history. A narrower shared supervisor follow-up product is a hypothesis, not an established gap.
+**Assessment and confidence:** Strongly challenged. Free and paid alternatives cover checking, review and correction history. World Bank Survey Solutions also documents assignment, supervisor/interviewer comments, staged approval and the ability to resolve interview comments, directly challenging the earlier hope that shared handoff itself is missing. A cross-platform case list for teams using other collection tools remains a conditional hypothesis; no real team's unmet need has been observed.
 
-**Contrary evidence:** [E005](#e005), [E006](#e006), [E007](#e007), [E008](#e008), [E009](#e009), [E010](#e010), [E011](#e011), [E016](#e016). A spreadsheet plus existing communications is also a serious alternative.
+**Contrary evidence:** [E005](#e005), [E006](#e006), [E007](#e007), [E008](#e008), [E009](#e009), [E010](#e010), [E011](#e011), [E016](#e016), [E023](#e023), [E024](#e024). A spreadsheet plus existing communications is also a serious alternative. Survey Solutions is a collection platform; moving an existing Kobo or SurveyCTO study to it would carry switching work, which has not been priced or tested.
 
-**Next check:** Compare a real team's complete process with DataSure, Kobo review features, SurveyCTO where already licensed, and a well-organized spreadsheet. Inspect whether assignment, supervisor responses and unresolved-case follow-up still require troublesome work. No competitor was runtime-tested.
+**Next check:** Compare a real team's complete process with its current platform, DataSure and an orderly spreadsheet. For any team already using Survey Solutions, inspect why its native review is insufficient. No competitor was runtime-tested.
 
 ## C004
 
 **Claim:** An organization could pay from a research or fieldwork budget, and recurring studies could create repeat revenue.
 
-**Assessment:** Plausible but unproven. The RFP makes daily quality reports part of a larger contracted deliverable; it is not a purchase of this product or proof of an accessible software budget. Repeated surveys are documented, but repeated product purchases are not.
+**Assessment and confidence:** Low for this offer. The RFP makes daily quality reports part of a larger contracted deliverable; it is not a purchase of this product or proof of an accessible software budget. Repeated surveys are documented, but repeated product purchases are not. Free and low-price alternatives increase the burden of proving enough extra value to pay.
 
 **Evidence:** [E003](#e003), [E004](#e004), [E014](#e014).
 
-**Unknowns:** Budget owner; approval threshold; ability to pay a new vendor; payment delay; preferred billing unit; expected support; accepted price. A per-active-project subscription plus separately scoped setup is a proposal.
+**Unknowns:** Budget owner; approval threshold; ability to pay a new vendor; payment delay; preferred billing unit; expected support; accepted price; whether a second study would buy again. A per-active-study-month fee plus separately scoped setup is a proposal. [Economics](economics.md) illustrates possible cash and time exposure, not a forecast.
 
 **Next check:** Have a project manager explain the last software purchase and the approval/payment path. Ask which existing budget line could cover a narrowly defined follow-up tool.
 
@@ -50,7 +50,7 @@ Scope: coordinating the investigation and resolution of flagged survey responses
 
 **Claim:** The narrow offer has a more bounded learning burden than designing or interpreting research itself.
 
-**Assessment:** A scope-based inference, not demonstrated founder competence. Importing already flagged issues leaves scientific rules with the research team, but the founder must understand record identity, legitimate missingness, field verification, approval and correction provenance. Confidentiality and reliable multi-user operations remain material requirements.
+**Assessment and confidence:** A scope-based inference, not demonstrated founder competence. Importing already flagged issues leaves scientific rules with the research team, but the founder must understand record identity, legitimate missingness, field verification, approval and correction provenance. Confidentiality and reliable multi-user operations remain material requirements. Survey Solutions demonstrates how much of this workflow a mature platform already handles.
 
 **Basis:** [E009](#e009), [E010](#e010), [E011](#e011), [E012](#e012), [E013](#e013), [E016](#e016); self-reported background in [the founder profile](../../FOUNDER-PROFILE.md).
 
@@ -60,11 +60,19 @@ Scope: coordinating the investigation and resolution of flagged survey responses
 
 **Claim:** A small prototype could fit the founder's ₹5,000/month cash budget.
 
-**Assessment:** Plausible for a synthetic-data prototype; paid delivery remains unassessed. Low hosting prices do not establish the affordability of security review, specialist time, onboarding or reliable daily support.
+**Assessment and confidence:** Plausible for a synthetic-data prototype; paid delivery remains unassessed. Refreshed low hosting prices do not establish the affordability of security review, specialist time, onboarding or reliable daily support. See [economics](economics.md).
 
-**Evidence/input:** [E017](#e017). Cost calculations and workload scenarios are explicitly hypothetical in [the summary](summary.md#what-building-and-running-it-would-require).
+**Evidence/input:** [E017](#e017), the user-supplied time/budget constraints in [the founder profile](../../FOUNDER-PROFILE.md), and explicitly hypothetical calculations in [economics](economics.md).
 
 **Next check:** Get an actual deployment estimate and a quote for independent security/implementation review after the customer's data and access requirements are known.
+
+## C007
+
+**Claim:** A cross-platform, issue-list-based workspace can create a first useful result without replacing the team's collection system and then earn use through the rest of a study or a later study.
+
+**Assessment and confidence:** Low. CSV import makes a bounded first use conceivable, but no customer has supplied a permitted issue file, accepted the proposed statuses, used a prototype, or returned for another fieldwork cycle. Incumbent workflow depth in [E011](#e011) and [E023](#e023) may make another login and export less attractive. A study that ends stops generating cases; renewal cannot be assumed.
+
+**Next check:** After [T001](tests/T001-workflow-and-alternatives.md) finds a genuine gap, use a synthetic or authorized minimal issue file to test import-to-export with a coordinator, supervisor and lead. Later behavior across successive issue batches would be needed to assess continued use; [T003](tests/T003-continued-use.md) is conditional.
 
 ## E001
 
@@ -120,7 +128,7 @@ Scope: coordinating the investigation and resolution of flagged survey responses
 
 **Report:** A free open-source local application with survey quality modules, SurveyCTO connectivity, file imports and tools for tracking corrections. It targets data managers/coordinators and spreadsheet-comfortable teams. The overview lists version 0.8.0. This substantially weakens a paid generic checking-and-history proposition.
 
-**Dates/context:** Last modified 2026-09-23; retrieved 2026-10-11. Global research workflow; no runtime verification or adoption count. Related: C003, C005.
+**Dates/context:** Previously checked 2026-10-11. The same official page was last modified 2026-10-13 and rechecked 2026-10-17; it still lists version 0.8.0. Global research workflow; no runtime verification or adoption count. This is a recheck of E007, not independent evidence. Related: C003, C005.
 
 ## E008
 
@@ -152,7 +160,7 @@ Scope: coordinating the investigation and resolution of flagged survey responses
 
 **Report:** Review can hold flagged submissions, collect comments, correct responses and approve/reject data before export. This is a substantial incumbent workflow. Current Basic pricing is US$250/month when billed monthly or US$225/month on an annual subscription; it buys a collection platform, not just a follow-up tracker. Taxes and India-specific payment terms were not established.
 
-**Dates/context:** Workflow documentation updated 2026-10-01; pricing publication date unknown; both retrieved 2026-10-11. Initial guessed documentation paths failed; the correct indexed official URL opened successfully. Related: C003, C004.
+**Dates/context:** Workflow documentation updated 2026-10-01; pricing publication date unknown; both retrieved 2026-10-11 and pricing/workflow rechecked 2026-10-17. Basic remains US$250/month on monthly billing or US$225 per month with annual subscription; plan limits and taxes are not the proposed product's economics. Related: C003, C004, C007.
 
 ## E012
 
@@ -192,15 +200,15 @@ Scope: coordinating the investigation and resolution of flagged survey responses
 
 **Report:** Offers a spreadsheet template for quality tasks, checks, issues/actions and responsible people. Reinforces the importance of responsibility while providing a free organizational alternative. A new product must add enough value beyond adopting this template and better working habits.
 
-**Dates/context:** Last modified 2026-10-08; retrieved 2026-10-11. Method/tool documentation; template not downloaded or executed. Related: C003, C005.
+**Dates/context:** Previously checked 2026-10-11. The same official page was last modified 2026-10-15 and rechecked 2026-10-17; it now explicitly describes a five-sheet template, including Issues and Actions and a person responsible. It was not downloaded or executed. This is a recheck of E016, not a second observation. Related: C003, C005.
 
 ## E017
 
 **Origin:** [AWS Lightsail pricing](https://aws.amazon.com/lightsail/pricing/).
 
-**Report:** Lists a Linux instance with public IPv4, 1 GB RAM and 40 GB disk at US$7/month; snapshot storage at US$0.05/GB/month. Mumbai gets half the listed bundle transfer allowance. These are possible prototype infrastructure inputs, not a complete production configuration or bill.
+**Report:** Lists Linux instances with public IPv4 at US$7/month for 1 GB RAM/40 GB disk and US$12/month for 2 GB RAM/60 GB disk; snapshot storage is US$0.05/GB/month. Mumbai gets half the listed bundle transfer allowance. These are possible prototype infrastructure inputs, not a complete production configuration or bill.
 
-**Dates/context:** Price publication date unknown; retrieved 2026-10-11. USD, per month. No AWS resources created. Related: C006.
+**Dates/context:** Price publication date unknown; retrieved 2026-10-11 and rechecked 2026-10-17. USD, per month; taxes and exact deployment region charges unquoted. No AWS resources created. Related: C006.
 
 ## E018
 
@@ -208,7 +216,7 @@ Scope: coordinating the investigation and resolution of flagged survey responses
 
 **Report:** Advertises no-code checks with Kobo, ODK, SurveyCTO and file inputs. Published plans: Standard US$15/month for two projects; Pro US$20/month for five; Max US$100/month for unlimited projects. These are a direct challenge to a checking-only offer. It does not establish India-specific total costs or actual quality.
 
-**Dates/context:** Publication/event unknown; retrieved 2026-10-11. Vendor identifies Lusaka, Zambia. JavaScript interface not inspected; no signup/demo/payment; attempted privacy route returned cache miss. No claim of superior reliability or compliance inferred. Related: C003, C004.
+**Dates/context:** Publication/event unknown; retrieved 2026-10-11 and price page rechecked 2026-10-17. Vendor identifies Lusaka, Zambia. JavaScript interface not inspected; no signup/demo/payment; attempted privacy route returned cache miss. No claim of superior reliability or compliance inferred. Related: C003, C004.
 
 ## E019
 
@@ -234,8 +242,32 @@ Scope: coordinating the investigation and resolution of flagged survey responses
 
 **Dates/context:** First discussion June–July 2021; second September 2021; retrieved 2026-10-11. Geography unconfirmed. Supports workflow language, not purchase or current urgency. Related: C001, C003.
 
+## E022
+
+**Origin:** Abhinav Dubey and Rohan Shah of 3ie, [Managing large-scale surveys: best practices to ensure data quality](https://www.3ieimpact.org/blogs/managing-large-scale-surveys-best-practices-ensure-data-quality), first-party account by evaluation staff, also republished by India Development Review. The republication displays 2025-07-22; the original page did not expose a clear publication date in the accessible text.
+
+**What it reports:** In a nine-state Indian livelihood evaluation covering over 25,000 households and 7,000 institutions, the team found missing and illogical answers, ran high-frequency checks, increased field monitoring, used audio/text audits and debriefed enumerators. Some issues called for training or question changes rather than a record correction. This is independent of E001 and supports the work's continuing complexity; it does not report a lost follow-up case or a desire for new software.
+
+**Dates/context:** Survey dates unknown; original publication date not confirmed, republication 2025-07-22; retrieved 2026-10-17. Large Indian evaluation, not the proposed smaller customer. Related: C001, C002, C005.
+
+## E023
+
+**Origin:** World Bank Survey Solutions, [Survey Workflow](https://docs.mysurvey.solutions/headquarters/interviews/survey-workflow/), [release notes](https://docs.mysurvey.solutions/release-notes/), and [version 19.08 note](https://docs.mysurvey.solutions/release-notes/version-19-08/); first-party product documentation for one alternative.
+
+**What it documents:** Headquarters allocates cases to supervisors, interviewers send completed interviews for review, supervisors and headquarters can approve or reject, and interviewers can correct or explain questionable answers. The version 19.08 note says supervisor/HQ comments on interview questions can be marked resolved. This directly challenges the idea that assignment and resolution tracking are absent from survey software. **Correction on source scope:** the September 2026 release's counter of unresolved comments applies to collaboration in the *Questionnaire Designer*, not interview-case follow-up, and is not used as evidence for this claim. The documentation does not show that it accepts arbitrary external quality-issue lists from a team's existing Kobo/SurveyCTO project, nor that a particular team uses or likes these features.
+
+**Dates/context:** Workflow page displays 2016-06-29. The version 19.08 detail page displays 2021-03-10, while the release archive dates that version 2019-08-16; the exact publication date is inconsistent across official pages. The distinct questionnaire-design release is dated 2026-09-17. Retrieved 2026-10-17. Global collection-platform offer, not a runtime test or Indian buyer account. Related: C003, C005, C007.
+
+## E024
+
+**Origin:** World Bank Survey Solutions [product site](https://mysurvey.solutions/en/) and [cost FAQ](https://docs.mysurvey.solutions/faq/what-are-the-costs-associated-with-using-survey-solutions-/); first-party supplier description for the same product as E023.
+
+**What it documents:** The software is offered free for public and private users; a team needs its own server arrangement and field devices. The product site describes cloud or local deployment. Free software therefore does not imply free operation, and it is not a price for the proposed stand-alone follow-up product. Switching an active study's collection platform would require work whose cost is unknown. The free-software page does not by itself establish an open-source code licence.
+
+**Dates/context:** Cost FAQ 2016-09-07; product-site publication date unknown and advertises version 26.09; retrieved 2026-10-17. USD/INR hosting, hardware and support costs not quoted here. Related: C003, C004, C007.
+
 ## Research still needed
 
-The key missing evidence is a present-day smaller Indian team's unresolved-case process and a budget owner willing to pay for an improvement. Runtime comparison with DataSure/Kobo/spreadsheets is also outstanding. Sources show the task exists and alternatives are substantial; they do not establish a market opening, accepted price, repeat demand, customer acquisition cost, support load or reliable solo delivery.
+The key missing evidence is a present-day smaller Indian team's unresolved-case process and a budget owner willing to pay for an improvement. Runtime comparison with the team's current platform, DataSure, Survey Solutions and a disciplined spreadsheet is outstanding. The latter is a strong documented alternative, not proof that moving collection systems would be practical. Sources show the task exists and alternatives are substantial; they do not establish a market opening, accepted price, repeat demand, customer acquisition cost, support load or reliable solo delivery.
 
-See [the dated scouting report](../../scouting-runs/2026-10-11-researcher-workflows.md) for screening directions and access failures. No clinical, statistical or legal professional competence is inferred, and no legal interpretation was made from vendor compliance copy.
+See [the dated scouting report](../../scouting-runs/2026-10-11-researcher-workflows.md) for initial screening and [the 2026-10-17 round](rounds/2026-10-17-investigation.md) for new searches and limits. Public English-language material and official docs were accessible; practitioner private groups, regional-language sources and real team files were not examined. A 2026 Indian health-surveillance study surfaced in search but direct PMC opening returned a browser check; it concerns routine disease reporting rather than this survey-study offer and was not used as evidence. No clinical, statistical or legal professional competence is inferred, and no legal interpretation was made from vendor compliance copy.

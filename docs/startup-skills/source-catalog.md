@@ -1,10 +1,10 @@
 # Shared starting resources for startup scouting
 
-Checked: **2026-10-03**. This is the shared runtime starting-source catalog, selected in [Decide how the scout discovers and compares open opportunities](../../.scratch/startup-skills/issues/07-decide-scout-workflow.md). It builds on [discovery-source research](../../.scratch/startup-skills/issues/03-research-discovery-coverage.md) and [reusable-toolkit research](../../.scratch/startup-skills/issues/12-research-reusable-startup-toolkit.md).
+Initial checks: **2026-10-03**; work-map and review-channel additions checked **2026-10-17**. This is the shared runtime starting-source catalog, selected in [Decide how the scout discovers and compares open opportunities](../../.scratch/startup-skills/issues/07-decide-scout-workflow.md). It builds on [discovery-source research](../../.scratch/startup-skills/issues/03-research-discovery-coverage.md) and [reusable-toolkit research](../../.scratch/startup-skills/issues/12-research-reusable-startup-toolkit.md).
 
 This is a starting menu, not an exhaustive catalog, approved vendor stack, or checklist every run must complete. The scope is software, AI, and similar technology serving any industry and geography. Choose sources around the customer and question; add useful sources found during research. The examples below demonstrate retrieval and source roles, not selected startup ideas.
 
-**Independent discovery comes first:** search and read the wider web and relevant public communities using customer roles, tasks, frustrations, workarounds, and local terms. These searches must be able to find problems absent from curated lists. YC prompts and idea lists supplement that work; following only their links is insufficient.
+**Seek independent customer evidence:** search the wider web and relevant communities using customer roles, tasks, desired experiences, purchase motives, existing products and local terms. Whether a lead starts with a paid product, an observed problem or an idea list, inspect original behavior and current alternatives beyond the initial source. Positive use accounts can matter as much as complaints.
 
 ## How to use and maintain this list
 
@@ -16,6 +16,16 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 - Use relevant regional languages and local names for occupations and workflows. English business/technology communities cannot represent all customers. For an unfamiliar market, find its own practitioner communities, statistical office, industry bodies, public-buyer records, and local alternatives. Check translation meaning when it changes the claim.
 - Keep a compact record of searched directions and omitted or inaccessible populations. Distinguish no relevant results from a source failure, login wall, partial extraction, or an unattempted source. None means that demand is absent. Where public sources cannot answer the question, state the missing observation or customer test rather than inventing it.
 - Add relevant resources as they are discovered, with the same role, limits, access state, and check date. Recheck resources when used; update broken links and changed access. Keep this menu small by linking opportunity-specific material from that opportunity's evidence instead of expanding the shared list indefinitely.
+
+## Finding the work to investigate
+
+### O*NET: occupational tasks and related organizations
+
+**Job and use:** [O*NET OnLine](https://www.onetonline.org/) lists occupation-specific tasks, work activities, software skills and professional associations. Use it to identify roles, task language and possible written routes to practitioners before searching for incidents in a particular job. Find the equivalent local source when the target market is outside the US.
+
+**Limits:** A task list describes work, not frustration, unmet demand, frequency in a chosen firm size or purchasing authority. The listed association is a possible route, not proof anyone will reply.
+
+**Access checked 2026-10-17:** Official search and task/association entry points were readable; no occupation-specific task, association member directory or contact path was verified in this check.
 
 ## Independent problem accounts and discussions
 
@@ -58,6 +68,14 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 **Limits:** Repository participants are selective and often technical. Several issue links can describe one underlying problem. A requested feature is not a purchase commitment, and an open issue does not prove the capability is absent everywhere.
 
 **Access checked 2026-10-03:** Public index and sample issue body/status readable. Reactions were unavailable in the extracted sample. Other links, full history, APIs, and authenticated access were not tested.
+
+### B2B software reviews: G2 and relevant app marketplaces
+
+**Job and use:** Start from a named product used in the buyer's job, then read full low- and high-rated reviews by relevant roles. [G2's research methodology](https://documentation.g2.com/docs/research-scoring-methodologies) explains review weighting and limitations; [Shopify's review policy](https://help.shopify.com/en/partners/help-support/faq/reviews) shows how its app marketplace handles merchant reviews. A dated complaint can locate a failure or workaround; a satisfied review can reveal what already works.
+
+**Limits:** Reviewers are a selected group, accounts are subjective, and ratings are not a prevalence measure. Verify the review's role, customer tier, product version, vendor response and present feature before treating the failure as current. A marketplace is useful only when its buyers match the target segment.
+
+**Access checked 2026-10-17:** These first-party methodology and policy pages were readable. Access to full reviews for a particular product, filtering, pagination and automated retrieval was not established by this check.
 
 ### Trustpilot: experiences with existing alternatives
 
