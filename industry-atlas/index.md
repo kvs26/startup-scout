@@ -39,7 +39,7 @@ The atlas uses the ISIC Rev. 5 hierarchy: **22 sectors → 87 divisions → 258 
 
 ## How the idea scout should use this
 
-1. Use varied sectors and [ecosystem routes](ecosystems.md) to identify specific activities, organization types, buyer roles and consumer audiences. Class examples supply search vocabulary, not proof of a business opportunity.
+1. Begin an unspecified broad search with the scout's [area-selection menu](../.agents/skills/startup-idea-scout/references/discovery.md#choose-the-search-areas). Within the selected scope, use sectors and [ecosystem routes](ecosystems.md) to identify specific activities, organization types, buyer roles and consumer audiences. Class examples supply search vocabulary, not proof of a business opportunity.
 2. Investigate customer work, desired experiences and existing spending through original accounts, artifacts and current alternatives. The PDF’s D/A ranges are not evidence of actual use or demand.
 3. Apply the scout's [discovery](../.agents/skills/startup-idea-scout/references/discovery.md) and [commercial assessment](../.agents/skills/startup-idea-scout/references/commercial-assessment.md) guides. An existing competitor is a comparison baseline; a researched reason to be chosen can concern price, value, experience or distribution without an unsolved functional gap. Keep the atlas's suggested applications separate from observed deployment.
 

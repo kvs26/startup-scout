@@ -52,6 +52,14 @@ Use a small economic scenario when inputs allow it. Label each input as sourced,
 
 Use low/high usage or support scenarios if these could reverse the result. A lower price needs a viable cost basis. Cheap software can still be expensive to acquire customers for or support. Unknown conversion, acquisition cost, churn and payment acceptance remain unknown; a scenario is not a revenue forecast. Current budget and time constrain the proposed entry, not the size of the eventual ambition.
 
+## AI-assisted production
+
+Assess the production plan stated in the founder profile. This founder intends to use separate skills or automations to create code, interfaces, artwork, animation, writing, audio and other digital resources with AI, while directing the work and handling customer conversations and business decisions. This is founder context, not a production task for the scout. Lack of manual coding, drawing, narration or writing experience alone is not a delivery disqualification. Identify what the founder needs to understand to specify and judge the result.
+
+Assess a plausible creation workflow and its consequential unknowns: consistency across assets, editing and retries, integration, debugging, factual or specialist accuracy, rights/terms and customer acceptance where relevant. Where quality needs a representative output, recommend a check for the separate production workflow or assess supplied results; creating that output is outside the scout's scope. Neither AI availability nor a polished draft proves reliable paid delivery. AI used to build the business need not be an AI feature sold to customers.
+
+Budget for tool subscriptions or API credits, generation/rework, hosting, testing and founder direction/support time. Existing paid-tool access is unknown unless recorded. Prefer an AI-assisted baseline over assumed staff or commissions; label any conventional-production scenario as an optional comparison. Identify a human specialist dependency only when grounded in the actual task, explain its role and cost, and flag any conflict with the intended workflow rather than silently assuming a hire. AI production changes the delivery assessment, not the evidence of demand, differentiation or affordable acquisition.
+
 ## Compare the researched pool
 
 For open discovery, compare all **at least 50 completed deep assessments** before making the final recommendation. Use the discovery guide's depth audit and actual completed count. A request for one winning idea does not authorize comparing only the first few. Save a row for every researched idea with links to its assessment and reasons for its relative position; retain partial and screened ideas separately, outside the completed count.

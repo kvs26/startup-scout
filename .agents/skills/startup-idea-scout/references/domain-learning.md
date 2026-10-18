@@ -4,6 +4,8 @@ Every opportunity's `summary.md` must include a **Domain knowledge needed** sect
 
 For consumer products, cover the relevant audience, experience design, content quality, distribution and repeat-use behavior instead of manufacturing a business-workflow prerequisite. Scale the learning section to the product's actual demands.
 
+Apply the [AI-assisted production baseline](commercial-assessment.md#ai-assisted-production). Explain the knowledge needed to direct AI, judge outputs and resolve failures; distinguish those responsibilities from manually producing code, prose or assets. An unfamiliar manual craft is not automatically a required founder skill, while an essential quality judgment still needs a credible checking method.
+
 Make the section useful for deciding whether to learn and pursue the idea:
 
 - **What to understand and why:** explain each necessary topic in everyday words, with a concrete connection to the offer. Support consequential requirements from the research; label tentative ones.

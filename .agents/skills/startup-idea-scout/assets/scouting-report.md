@@ -1,10 +1,11 @@
-Template for `scouting-runs/<run-id>.md`. Follow the [record guide](../../../../docs/startup-skills/record-guide.md), [discovery depth standard](../references/discovery.md#what-counts-as-deep-research) and [comparison rules](../references/commercial-assessment.md#compare-the-researched-pool). Replace placeholders and remove these instructions. For open discovery, complete at least 50 distinct deep assessments before the final comparison/recommendation. Adapt to one specific supplied idea or an explicitly smaller exercise; never manufacture extra ideas to fill sections.
+Template for the single `scouting-runs/<run-id>.md` file for a scouting session/run. Follow the [record guide](../../../../docs/startup-skills/record-guide.md), [discovery depth standard](../references/discovery.md#what-counts-as-deep-research) and [comparison rules](../references/commercial-assessment.md#compare-the-researched-pool). Replace placeholders and remove these instructions. Keep all research in this file, including the detailed sections below. For open discovery, complete at least 50 distinct deep assessments before the final comparison/recommendation. Adapt to one specific supplied idea or an explicitly smaller exercise; never manufacture extra ideas to fill sections.
 
 # {{Scouting campaign title}}
 
 Run: {{unique dated ID}}  
 Brief and mode: {{User request and constraints; open discovery / supplied idea / continuation / named comparison}}  
-Campaign status: {{research incomplete / complete}}  
+Campaign status: {{awaiting scope selection / research incomplete / complete}}
+
 Research target: {{At least 50 distinct deep assessments for open discovery; record any explicit scope override and its source}}  
 Completed deep assessments: {{Actual verified count; separate in-progress, screened, duplicate and excluded totals}}  
 Prior records: {{Relevant runs/rejections/current opportunities; refreshed evidence or different proposition if revisiting}}  
@@ -12,17 +13,19 @@ Founder profile: {{Reference/date and relevant constraints}}
 
 ## Coverage and research plan
 
-{{Describe the pool across sectors, audiences, motives and business models, including consumer wants, non-regulated business work and established paid categories where scope allows. Record atlas routes actually read. Explain concentration and remaining coverage; industry names or query counts alone do not establish diversity.}}
+{{Record the initial industry sampling pool/method, displayed industry and saved-lead options, and the user's selected directions. If the user supplied scope directly or explicitly delegated the choice, record that instead of inventing a menu. If awaiting selection, show zero completed assessments and the next user choice. Keep this preparation in the same run file.}}
+
+{{Describe the pool within the selected sectors/themes across audiences, motives and business models, including consumer wants, non-regulated business work and established paid categories where scope allows. The 50-idea minimum applies to the whole campaign, not each selected direction. Record atlas routes actually read. Explain concentration and remaining coverage; industry names or query counts alone do not establish diversity.}}
 
 {{For continuation, identify completed work retained, downgraded/stale assessments, duplicates and the next batch. A live index can change while research is incomplete; completed reports retain their dated conclusions.}}
 
 ## Assessment index and full comparison
 
-{{One row per idea with a link to its individual assessment. Every counted row must meet the depth standard. Keep partial/screened/duplicate rows separately below. Compare the whole completed pool; do not choose a winner after only the easiest few. Use judgment with stated uncertainty, not a fabricated aggregate score.}}
+{{One row per idea with a link to its assessment anchor in this file, such as #i001. Every counted row must meet the depth standard. Keep partial/screened/duplicate rows separately below. Compare the whole completed pool; do not choose a winner after only the easiest few. Use judgment with stated uncertainty, not a fabricated aggregate score.}}
 
 | ID and assessment | Customer, offer and payment | Demand/spending evidence | Reason to choose our version and alternatives | Acquisition | Economics, founder fit and growth | Business verdict and comparative priority |
 | --- | --- | --- | --- | --- | --- | --- |
-| {{ID + relative link; research status and latest check}} | {{Concrete proposition}} | {{Finding + limits}} | {{Baseline, proposed advantage and uncertainty}} | {{Route + unknowns}} | {{Main drivers, burden, upside and limits}} | {{Reasoned position within the pool; not predicted profit}} |
+| {{ID + section link; research status and latest check}} | {{Concrete proposition}} | {{Finding + limits}} | {{Baseline, proposed advantage and uncertainty}} | {{Route + unknowns}} | {{AI-assisted production, cost drivers, founder judgment, growth and limits}} | {{Reasoned position within the pool; not predicted profit}} |
 
 {{Explain the basis of comparison, trade-offs among the strongest ideas and what could change their order. Evidence already recorded in assessments is linked rather than duplicated.}}
 
@@ -50,4 +53,12 @@ Founder profile: {{Reference/date and relevant constraints}}
 
 ## Resume or investigate
 
-{{List next concrete tasks and the user's choice. Link individual assessments and any promoted opportunity summary. On promotion, retain original evidence in its canonical home. A founder can choose a discussion option despite the scout's doubts; carry those doubts forward without forcing another broad search. No outreach, purchases or live tests are implied.}}
+{{Follow SKILL-MAP.md's next-step convention: name the next skill or user action, the concrete task and why it matters, relevant record links, and unresolved choices. For a completed recommendation, normally provide a ready-to-use startup-opportunity-investigator prompt with the actual opportunity path and next questions. Repeat this next plan in the final chat reply. Link assessments and any promoted summary, preserving canonical evidence. A founder can choose a discussion option despite the scout's doubts; carry those doubts forward without forcing another broad search. An incomplete run resumes scouting. No outreach, purchases or live tests are implied.}}
+
+## Detailed idea assessments
+
+{{Repeat the idea-assessment section template here for every researched idea, including negatives and incomplete work. Use unique explicit anchors such as i001, i001-e001 and i001-c001. Preserve substantive evidence and all eight research dimensions; the comparison table does not replace these sections.}}
+
+## Shared evidence and cost checks
+
+{{Include only observations genuinely used by multiple ideas. Give each one a unique anchor such as shared-e001 and link to it from the relevant assessments; retain source provenance and assumptions. Keep session progress and dated corrections in this file as well.}}

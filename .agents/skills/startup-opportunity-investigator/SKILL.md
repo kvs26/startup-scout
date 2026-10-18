@@ -7,7 +7,11 @@ description: Investigate a selected software, AI, or similar technology business
 
 Help the user decide whether to keep exploring, change, or leave a chosen opportunity. Produce a sourced current view and the next useful customer tests; preserve each round so a later session can continue from files alone.
 
+Follow the shared [skill boundaries](../../../docs/startup-skills/record-guide.md#skill-boundaries): assess the business and plan tests; leave code, art and product creation to the user's separate production skills or automations. The founder's AI production plan informs feasibility and cost estimates without adding implementation to this skill.
+
 ## Start or resume
+
+Read the root [skill map](../../../SKILL-MAP.md) at the start of each run for related project skills, routing and next-step guidance.
 
 Resolve the repository root from this skill's location (`../../..`). Read the shared [record guide](../../../docs/startup-skills/record-guide.md), [research guide](../../../docs/startup-skills/research-guide.md), and [tool routing](../../../docs/startup-skills/tools.md). Consult the single [source catalog](../../../docs/startup-skills/source-catalog.md) when choosing sources and go beyond it where the question requires. The root [glossary](../../../CONTEXT.md) owns domain terms. Runtime work needs neither the planning tracker nor the old project.
 
@@ -58,3 +62,5 @@ Follow the record guide to save only useful files under `opportunities/<stable-n
 If the opportunity appears in an existing `opportunities/comparison.md`, refresh its affected content, dating the assessment and identifying other entries not reassessed. Create a comparison only when explicitly requested; otherwise compare the offer with its current alternatives in its summary. A single-opportunity update is not a new full comparison. Keep earlier `scouting-runs/` reports intact unless the user requests deletion. Follow the shared templates and check generated links.
 
 Finish in everyday language with the product explained, important findings and contrary evidence, the recommendation and its reasons, what remains unknown, why the round stopped, and the next focused test or investigation. Link the current summary, saved round and useful handoff. The user chooses whether to continue, revise or leave; an agent recommendation never fills in their decision.
+
+Use the skill map's [next-step convention](../../../SKILL-MAP.md#explain-the-next-step) to name the next owner and task in chat and the saved record. Route contact preparation to customer-connect, changed discovery needs to the scout, or further investigation to this skill, according to the actual unresolved question.

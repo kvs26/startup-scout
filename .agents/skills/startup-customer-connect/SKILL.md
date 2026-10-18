@@ -7,9 +7,13 @@ description: Find relevant people and contact routes for a chosen technology opp
 
 Prepare the user's next customer conversation from the opportunity's current work. Produce sourced routes and usable material for the immediate goal, with a durable return path for what actually happens.
 
+Follow the shared [skill boundaries](../../../docs/startup-skills/record-guide.md#skill-boundaries): prepare contacts, messages and conversations; leave code, art and product creation to the user's separate production skills or automations. A production plan in the founder profile is background, not a request to implement it.
+
 Examples: “Find people to learn from about this opportunity,” “Prepare this sales meeting,” “Help negotiate this pilot,” or “Save these replies and return them to the investigation.” Preparation ends before sending, spending, committing terms or running a live test; those actions require their own explicit authorization.
 
 ## Load the opportunity and conversation goal
+
+Read the root [skill map](../../../SKILL-MAP.md) at the start of each run for related project skills, routing and next-step guidance.
 
 Resolve the repository root from this skill's location (`../../..`). Read the shared [record guide](../../../docs/startup-skills/record-guide.md) and [tool routing](../../../docs/startup-skills/tools.md). The root [glossary](../../../CONTEXT.md) owns domain terms. Runtime work does not require the planning tracker or old project. An explicitly supplied output workspace changes the record destination, not the shared-resource location.
 
@@ -56,3 +60,5 @@ For actual replies or meeting notes, use the record guide's **Resume and accept 
 The investigator owns reassessment of business claims, calculations, tests and recommendations. If the user requests that reassessment, invoke [startup-opportunity-investigator](../startup-opportunity-investigator/SKILL.md) with the saved opportunity and result references; its intake should reuse those results. Otherwise save an explicit pending handoff with those references and material gaps. Receipt of results is not a completed investigation. If the investigator cannot run, say so and retain a usable handoff.
 
 Stop when the requested preparation is usable, or a named missing input/access/real result blocks the remaining work. Finish in everyday language with the recommended people/routes or prepared material, why they fit, important unknowns, links to saved work and the next action for the user. The user chooses whom to contact and what terms to accept.
+
+Use the skill map's [next-step convention](../../../SKILL-MAP.md#explain-the-next-step) in chat and the saved record: identify the user's immediate conversation task and what results to return, or provide the investigator handoff when actual results are ready for reassessment.

@@ -2,11 +2,23 @@
 
 Read for open discovery and continuation, or use the relevant per-idea method for a supplied idea. [Commercial assessment](commercial-assessment.md) owns business verdicts and comparison; the shared [research guide](../../../../docs/startup-skills/research-guide.md) owns evidence interpretation.
 
+## Choose the search areas
+
+For a new broad search with no chosen areas, first read the [industry atlas](../../../../industry-atlas/index.md), [user's lead notebook](user-leads.md), founder profile and recent runs. Present a manageable menu directly in chat before doing deep business research:
+
+1. Randomly sample roughly six distinct eligible industries without replacement from the atlas sector list, respecting explicit scope restrictions and rejections. Use an available random sampling tool rather than calling hand-picked favorites random. Give each option a plain-language label, an atlas link and a brief description; random inclusion is not a commercial recommendation. Note recently explored areas so the user can choose knowingly.
+2. Alongside those industries, offer the saved ideas and problems from `user-leads.md` as separately labeled choices with links. Preserve the user's wording and each lead's research status. If the notebook becomes long, make the remaining entries accessible through another page of choices rather than dropping them from consideration.
+3. Ask the user to choose a few directions, suggesting two or three while allowing any mix of industries and saved leads, their own direction, or a fresh random draw. Wait for that scope choice before researching the pool; silence is not a selection. The choice is about search areas, not a request for the user to identify buyers or do the desk research.
+
+If the request already names the industries, themes or leads to explore, use that scope and skip the menu. A continuation keeps the recorded scope unless the user changes it. If the user explicitly delegates the choice, select and state the scope before proceeding. A request merely to save a new lead updates the notebook without launching a menu or research campaign.
+
+Record the sampling pool/method, displayed options, selected directions and any explicit scope override in the same run file. If awaiting a choice, mark the run as awaiting scope selection with zero completed assessments. Once selected, the scout owns buyer discovery and research within those areas. The minimum is 50 deeply researched ideas across the whole selected campaign, not 50 per chosen industry. Choosing fewer areas narrows scope, not depth; a request to assess one concrete idea still follows the supplied-idea path.
+
 ## Build a diverse research pool
 
 A completed open-discovery campaign contains **at least 50 distinct, deeply researched ideas**, followed by a comparison. This is a research minimum, not a requirement for 50 positive verdicts or 50 pitches in chat. Early screening helps decide what to research; it cannot substitute for the 50 deep assessments.
 
-Use the founder profile and recent runs to notice concentration by **audience, buying motive and business model**, not just industry names. Compliance software sold to several industries remains a concentrated search. For unrestricted discovery, cover unrelated sectors, discretionary consumer spending, non-regulated business work, existing paid categories and novel opportunities where promising. Record the distribution of completed ideas across these dimensions and explain concentration. A specific search theme narrows the eligible universe, not the research depth; a specific supplied idea needs only its own assessment.
+Use the founder profile and recent runs to notice concentration by **audience, buying motive and business model**, not just industry names. Compliance software sold to several industries remains a concentrated search. Within the user's chosen areas, explore varied audiences, discretionary consumer spending, non-regulated business work, existing paid categories and novel opportunities where relevant. The campaign need not cover every industry in the atlas. Record the distribution of completed ideas across these dimensions and explain concentration; broaden beyond the chosen scope only when the user requests or accepts that change. A specific search theme narrows the eligible universe, not the research depth; a specific supplied idea needs only its own assessment.
 
 Use the [industry atlas](../../../../industry-atlas/index.md) actively: follow relevant sector/class or [ecosystem](../../../../industry-atlas/ecosystems.md) links, extract activity names, customer roles and search vocabulary, then investigate current evidence outside the atlas. Its AI-generated D/A bands are navigation aids, not demand estimates or rankings. For consumer products, add audience and spending occasions such as fun, status or belonging. Record the atlas routes actually consulted.
 
@@ -42,11 +54,11 @@ A completed assessment integrates these findings into an understandable business
 
 ## Keep a resumable campaign
 
-Use `scouting-runs/<run-id>.md` as the index, comparison and progress record. Store individual assessments under `scouting-runs/<run-id>/ideas/`. Track stable IDs, related/duplicate IDs, assessment paths, research status, business verdict, latest check and remaining work. Keep source observations in one canonical file with stable evidence IDs; other ideas and the comparison link to it.
+Keep one `scouting-runs/<run-id>.md` file for the session/run, containing the index, comparison, full assessment sections, evidence, shared cost checks and progress notes. Track stable IDs, related/duplicate IDs, section anchors, research status, business verdict, latest check and remaining work. Follow the shared record guide's anchor rules so each observation has one canonical entry in that file. Batch work is a research method, not a reason to save separate dossiers or per-idea files. Consolidate any temporary notes before counting a completed assessment.
 
 Research in manageable batches while preserving the same depth standard across the pool. After each batch, update the actual completed count and give a short progress update: completed N of at least 50, sectors/motives covered, changed findings and next work. Continue until at least 50 distinct assessments pass the depth check. An attractive first result is not a stopping condition.
 
-Before final comparison, audit every counted file for the depth requirements, working evidence links, freshness and distinctness. Downgrade incomplete files and finish or replace them. Read the individual conclusions and their evidence; a table of unchecked labels is not a comparison.
+Before final comparison, audit every counted assessment section for the depth requirements, working evidence links, freshness and distinctness. Downgrade incomplete sections and finish or replace them. Read the individual conclusions and their evidence; a table of unchecked labels is not a comparison. Verify that the run is stored in one Markdown file with unique idea/evidence anchors.
 
 If runtime, context, tool access or an explicit work limit prevents finishing, save a **research incomplete** checkpoint with the honest count and precise resume tasks. Keep useful provisional leaders visible, but do not describe them as the best of a completed 50-idea search. Resume from the index and current assessments, retaining completed work and correcting counts when necessary. Do not silently lower the target or claim work continued after the turn ended. An in-progress index can be updated; preserve completed reports and later changes under the shared record guide.
 
