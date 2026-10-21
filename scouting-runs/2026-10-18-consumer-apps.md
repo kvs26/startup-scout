@@ -3219,3 +3219,19 @@ At hypothetical 600 text turns per paid user per month, 4,000 input tokens and 2
 App Store illustration only: net after store commission = price × (1 − commission), using **15% if eligible**, and checking a **30% downside**. Contribution then subtracts usage delivery and support allocations; fixed spend and acquisition come afterward. A hypothetical $20 annual app leaves $17 after a 15% store fee, or $14 after 30%, before all other costs. $10 acquisition would consume most of this immediately. None of these is observed willingness to pay or customer acquisition cost.
 
 Founder labor is unpaid unless explicitly costed. Every offer requires discovery, onboarding, support, release testing and acquisition work; direct API cost is only one part. Art, recording, specialist review, devices and marketplace fees are identified separately where they could make ₹5,000/month inadequate. A prototype's cash fit is distinct from a polished commercial launch.
+
+
+<a id="ai-companions-selected-2026-10-18"></a>
+## 2026-10-18 — User selected AI Companions
+
+The user explicitly instructed: “do the AI Companions directly don't give option just choose this”. This selects the ongoing AI-companion direction represented by [I001](#i001), despite its earlier scout verdict, and overrides offering runners-up for this interaction. The historical fifty-idea comparison and recommendation above remain unchanged; selection is not new demand evidence.
+
+Under the skill map's selected-idea route, startup-opportunity-investigator completed an initial focused investigation in [opportunities/ai-companions](../opportunities/ai-companions/summary.md). This was not a new open-discovery campaign and adds no ideas to the completed count. The original Tolan/Kindroid observations stay canonical here; fresh evidence and conditional economics are in the opportunity. The current investigation uses a newer model-price benchmark after checking new-project access, rather than assuming the older shared benchmark is a deployable choice.
+
+The proposed first offer is one original adult text companion at US$9/month with 1,000 generated replies and controllable recollections. These are investigator-selected test terms, not terms supplied or accepted by customers. The strongest support is existing reported paid use; the strongest contrary finding is capable, established and free substitutes. Preference for our character, real costs, acquisition and renewal are unresolved. No product, customer contact or live test occurred.
+
+**Concrete next plan:** startup-customer-connect prepares [T001](../opportunities/ai-companions/tests/T001-preference-and-current-use.md), identifying suitable adult-user communities and preparing conversations about current use, spending and preference. The founder conducts the conversations; the investigator reassesses actual results. A separate production workflow can later make a sample for the proposed payment/return test.
+
+Ready prompt: “Use startup-customer-connect for opportunities/ai-companions. Prepare T001 by finding suitable adult AI-companion user communities, checking recruitment rules, and drafting invitations and interview questions. Carry the proposed $9/month text offer as a hypothesis. Do not send messages.”
+
+[Preserved investigation round](../opportunities/ai-companions/rounds/2026-10-18-selected-investigation.md).

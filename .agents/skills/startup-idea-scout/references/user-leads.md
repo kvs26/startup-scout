@@ -9,7 +9,7 @@ This is the user's notebook for ideas, personally experienced problems and outsi
 | [Consumer products and existing spending](#consumer-products-and-existing-spending) | Carousel inspiration; a completed consumer-app scouting run is linked below. No user selection recorded. |
 | [Useful skills and Markdown packages](#skills-package-lead) | Saved user interest; not selected for investigation here. |
 | [Responding to bank-requested KYC](#bank-requested-kyc-lead) | Saved user account and automation interest; workflow and demand remain unverified. |
-| [Deciding what to eat](#deciding-what-to-eat) | Personal problem supplied by the user; saved, not researched. |
+| [Deciding what to eat](#deciding-what-to-eat) | Selected for a completed 50-idea campaign on 2026-10-18; familiar-meal rotation recommended for investigation, no product selected by the user. |
 
 Source note for the two Instagram posts below: received and inspected on 2026-10-18. Both captions and all 15/12 carousel slides were read through the browser after the web reader failed to retrieve the supplied links. Recheck current products and commercial claims during an actual scouting round.
 
@@ -35,10 +35,10 @@ Other directions in that post include business agents, small AI-assisted agencie
 
 ## Deciding what to eat
 
-**Source:** the user's personal account, received 2026-10-18. **Status:** saved problem; no research or solution selected.
+**Source:** the user's personal account, received 2026-10-18. **Status:** selected as menu I for [the completed meal-decision campaign](../../../../scouting-runs/2026-10-18-discovery-menu.md), with fifty distinct deep assessments. The scout recommends [familiar-meal rotation](../../../../opportunities/familiar-meal-rotation/summary.md) for investigation; no product selection or customer validation is recorded.
 
 The user repeatedly struggles to choose what to eat, despite having options such as ordering through Zomato or Swiggy and cooking. The problem they want to explore is making the meal decision. Their account does not yet establish why choosing is difficult, which meals or situations are affected, or whether other people would pay for help.
 
-If selected for research, investigate how the decision happens today, what makes it difficult, and what people try before deciding. Preferences, budget, available time, ingredients and variety are possible factors to check, not facts already supplied. Keep ordering and home cooking in scope. A delivery marketplace, recipe generator, diet plan or recommendation app would be a possible solution to assess later, not the definition of this lead.
+The campaign covered ordering and home cooking, including consumers and business buyers. The user's own recent decision, cause and willingness to pay remain unexplained. Preferences, budget, available time, ingredients and variety are possible factors, not facts already supplied. The recommended rotation product is one researched commercial hypothesis; it does not redefine the original personal problem. Further selected-opportunity research belongs to startup-opportunity-investigator.
 
 These entries supply choices for the scout's [scope-selection step](discovery.md#choose-the-search-areas). Once the user chooses, apply the relevant discovery or supplied-idea path within that scope. Assess evidence, costs, acquisition and founder requirements when research is requested; saving a lead or personally experiencing a problem does not establish market demand.
