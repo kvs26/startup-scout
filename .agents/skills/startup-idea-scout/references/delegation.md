@@ -1,0 +1,32 @@
+# Research assistants and coordinator
+
+Read for open discovery after the [opening brief](discovery.md#establish-the-opening-brief) is settled, and on resuming delegated work. Source roles are evidence channels, not business models or industries. The coordinator owns the queue, count, canonical run and final explanation.
+
+## Discover, combine, assign
+
+1. Give each relevant [source role](../../../../docs/startup-skills/source-catalog.md#source-roles-and-starting-portfolio) an explicit worker. Use actual available slots, reserving the coordinator's slot; run roles in waves or give a worker several named roles. Record omitted roles and reasons. Start broadly, then adapt effort to the brief's diversity and evidence gaps rather than equal source quotas.
+2. Pass the accepted brief, exclusions versus preferences, founder constraints/profile pointer, assigned role/resources, candidate/evidence index, tools, aggregate access/budget limits, return format and a bounded discovery assignment. Workers return leads with customer, offer, buying reason, route to market, inspected sources/findings, coverage/failures, related candidates, uncertainties and next checks. Lead returns count as **zero completed assessments**. Integrate each returned batch; discovery need not exhaust every site before deeper work starts.
+3. Deduplicate commercial propositions before allocating stable idea IDs. Compare audience, offer, buying reason and route to market. The same company/name is a clue, not an automatic merge; a distinct variant needs a materially different commercial case and its own research. Preserve all source contributions while merging repeated propositions.
+4. Assign one assessment owner per idea in adjustable batches, initially 1–3 ideas per assignment. Give the worker the [assessment template](../assets/idea-assessment.md), [eight depth requirements](discovery.md#what-counts-as-deep-research), commercial guide and shared research/record guides. Owners research across source roles, perform contrary checks and return substantive assessments. Continue discovery as needed to reach the campaign's target within scope.
+
+## Return and accept research
+
+Each return identifies assigned idea IDs, related/duplicate ideas, research status separately from business verdict, supporting and contrary findings, calculations/assumptions and precise unfinished work. Evidence includes URLs or artifacts, author, event/publication/retrieval dates, audience/market, inspected versus merely reported content, access state and omissions. Preserve supplied-transcript provenance and audiovisual limits. Workers may use local evidence IDs; the coordinator resolves these to canonical anchors.
+
+Only the coordinator writes the canonical run, comparison and user report. Workers return messages or assigned temporary files. Before writing, reread the destination and merge newer changes. Integrate useful partial findings, source contributions and next tasks as well as accepted work. Each batch checkpoint retains assignments/states, actual accepted count and coverage. Temporary files are staging material; the durable run contains everything needed to resume.
+
+Read every assessment and its supporting evidence. Accept it into the count only when all eight dimensions, accessible decision-changing checks, distinctness, freshness and links pass and it is integrated into the run. A worker saying “complete” is insufficient. Completed negative verdicts count; screening, duplicates and substantive undone research do not. Keep unavailable private buying facts separate from unperformed desk research.
+
+Deduplicate evidence independently of ideas: a repost, newsletter, video clip and interview based on the same business/event remain one underlying observation. Multiple ideas can link to that observation without copying it or calling it independent corroboration. Use stable namespaced idea/evidence anchors under the [record guide](../../../../docs/startup-skills/record-guide.md#evidence-has-one-home).
+
+## Challenge and finish
+
+After owner counterchecks, give a **different worker** a focused challenge of the proposed winner and 3–5 alternatives/discussion options, plus decision-changing conflicts or weak claims affecting their order. Provide their actual assessments and evidence; ask which claims, alternatives or costs could reverse the conclusion. Resolve returned challenges before final comparison; challenge replacement finalists when necessary. This is additional scrutiny of conclusions, not a second full pass over fifty ideas. If another worker is unavailable, do a separate coordinator challenge pass and label it accordingly.
+
+Audit every counted idea before the final comparison, including the chosen model/customer/motive/discovery-angle diversity and source gaps. No default time limit or equal category quota applies. Honor explicit user time/cost limits and aggregate paid-access rules across workers. Progress updates report accepted N of at least 50, meaningful findings and next checks. The [discovery completion rules](discovery.md#keep-a-resumable-campaign) govern incomplete checkpoints and final reporting.
+
+## Failures and resumption
+
+On a worker/tool failure, salvage useful returns. Try one targeted retry or reassignment where it could help; then change the route or work sequentially. Known restrictions call for a fallback directly. Record failures as access/work limits, not negative demand evidence. Avoid repeating unchanged failures or letting one slow assignment block integration of others.
+
+When delegation is unavailable, disclose sequential category research by the coordinator and retain the same coverage/depth contract. A later session reloads the saved brief, index, assessments, evidence and remaining work, rechecks counts/freshness, salvages any available temporary returns through the acceptance gate and reassigns unfinished ideas. Stale assignments do not imply living workers or accepted research. Resume without repeating completed work, depending on ephemeral artifacts, or resetting the campaign count.

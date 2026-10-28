@@ -2,17 +2,45 @@
 
 Read for open discovery and continuation, or use the relevant per-idea method for a supplied idea. [Commercial assessment](commercial-assessment.md) owns business verdicts and comparison; the shared [research guide](../../../../docs/startup-skills/research-guide.md) owns evidence interpretation.
 
+## Establish the opening brief
+
+For fresh discovery, ask for missing choices before researching ideas. Fill answers already supplied by the current request; older campaign choices are context, not new-search defaults. Read the founder profile and relevant saved runs. Present short, labeled menus **directly in chat**, asking for **one option per prompt**, with a custom-answer route. The following wording is a usable starting point; adapt it to known answers:
+
+| Prompt | Single-choice options |
+| --- | --- |
+| What kind of opportunity should we find? | A. Freelancing / paid client work; B. Repeatable services / agency; C. Small products aimed at earning quickly; D. Longer-term startups; E. All these categories; F. Custom category or named mix |
+| What should matter most? | A. First revenue sooner; B. Durable ongoing earnings; C. Larger growth potential; D. Balanced priorities; E. Custom priority |
+| Where should ideas come from? | A. Existing businesses we could improve or adapt; B. Emerging trends and new opportunities; C. Overlooked needs or wants; D. All these angles; E. Custom angle |
+| Who should buy? | A. Businesses; B. Consumers; C. Both; D. Custom audience |
+| Where should customers be? | A. India; B. International markets outside India; C. Both; D. Named market(s) |
+| Which areas should we explore? | Show actual industry/lead options and named bundles using the method below, plus custom scope and a fresh draw. |
+| Practical limits for this search? | Briefly display known business budget, weekly time, learning and customer-work preferences. A. Keep these; B. Change them (specify changes); C. Add exclusions or promotion limits (specify). |
+
+The category prompt comes first. Ask in short rounds if later prompts depend on its answer. For category C, first revenue is already the top priority: state it and skip the generic priority prompt. For category D, a slower start is acceptable; ask about durability/growth if not already supplied. An all-categories or custom mixed search retains the different priorities of its tracks; a campaign-wide preference does not erase quick-product timing or longer-term growth trade-offs. If the category leaves the starting model unclear and it changes scope (for example a longer-term search), offer a separate single-choice prompt: owned products/software; repeatable services; marketplace/platform; all these; custom. Record actual starting model per idea separately from possible scale.
+
+Broad options require an explicit selection. “All categories” answers the category question, not every unanswered question. “You choose the rest” explicitly delegates remaining choices; select and state a coherent brief within known constraints. Silence, an elapsed wait, or a suggested/preselected answer supplies no choice. If awaiting choices, save an **awaiting scope selection** checkpoint with zero accepted assessments and precise pending questions. Prepare local menus while waiting; begin candidate research only after the brief is established. Summarize actual answers and proceed without an extra approval round.
+
+Save displayed options, answers/delegation, preferences versus hard exclusions and the resulting brief in the canonical run. The founder's business budget and the aggregate paid-research API planning cap are separate amounts with separate purposes; the API cap is not spending authorization. Temporary campaign choices stay in the run; only explicit lasting preferences update the profile.
+
+For a new chat resuming a campaign, show its saved brief and continue under that instruction; do not repeat the questionnaire. Reconcile requested constraint changes with retained assessments, mark affected work for recheck, and update the count rather than silently applying old findings to a different brief. Ask only about consequential ambiguity. A supplied specific idea or named saved comparison needs only relevant clarification. Saving a lead alone updates the notebook without starting discovery.
+
 ## Choose the search areas
 
-For a new broad search with no chosen areas, first read the [industry atlas](../../../../industry-atlas/index.md), [user's lead notebook](user-leads.md), founder profile and recent runs. Present a manageable menu directly in chat before doing deep business research:
+When areas are missing, read the [industry atlas](../../../../industry-atlas/index.md), [user's lead notebook](user-leads.md), founder profile and recent runs:
 
-1. Randomly sample roughly six distinct eligible industries without replacement from the atlas sector list, respecting explicit scope restrictions and rejections. Use an available random sampling tool rather than calling hand-picked favorites random. Give each option a plain-language label, an atlas link and a brief description; random inclusion is not a commercial recommendation. Note recently explored areas so the user can choose knowingly.
-2. Alongside those industries, offer the saved ideas and problems from `user-leads.md` as separately labeled choices with links. Preserve the user's wording and each lead's research status. If the notebook becomes long, make the remaining entries accessible through another page of choices rather than dropping them from consideration.
-3. Ask the user to choose a few directions, suggesting two or three while allowing any mix of industries and saved leads, their own direction, or a fresh random draw. Wait for that scope choice before researching the pool; silence is not a selection. The choice is about search areas, not a request for the user to identify buyers or do the desk research.
+1. Randomly sample roughly six distinct eligible industries without replacement from the atlas sector list, respecting explicit restrictions and rejections. Use an actual random sampling tool and record its pool/method/results; otherwise describe the selection honestly. Give each a plain-language label, atlas link and brief description. Note recently explored areas. Random inclusion is not a recommendation.
+2. Show saved leads as labeled options with links and their research status. Keep further entries accessible if the notebook needs another page. Add clearly named bundles of two or three displayed areas so one option can cover several industries or leads. The user may also name a custom scope or request a fresh draw.
+3. Ask for **one option**, including a bundle if desired, and wait. Supplied areas skip this menu only; other missing brief choices still apply. Explicit delegation permits the scout to choose and state the areas.
 
-If the request already names the industries, themes or leads to explore, use that scope and skip the menu. A continuation keeps the recorded scope unless the user changes it. If the user explicitly delegates the choice, select and state the scope before proceeding. A request merely to save a new lead updates the notebook without launching a menu or research campaign.
+Record the actual options and selection in the run. The scout owns buyer discovery within them. Fifty deep assessments apply across the entire campaign, not per industry, source role, category or questionnaire combination. Narrower areas change scope, not depth; one concrete supplied idea follows its own assessment path.
 
-Record the sampling pool/method, displayed options, selected directions and any explicit scope override in the same run file. If awaiting a choice, mark the run as awaiting scope selection with zero completed assessments. Once selected, the scout owns buyer discovery and research within those areas. The minimum is 50 deeply researched ideas across the whole selected campaign, not 50 per chosen industry. Choosing fewer areas narrows scope, not depth; a request to assess one concrete idea still follows the supplied-idea path.
+## Divide discovery by source role
+
+Once the brief is established, use the [category research workflow](delegation.md) to assign source groups, combine discoveries, allocate distinct ideas for deep assessment and challenge finalists. The [source catalog](../../../../docs/startup-skills/source-catalog.md#source-roles-and-starting-portfolio) owns the six starting roles and named resources. Cover relevant roles broadly, then adapt effort to findings and gaps; no source count or equal allocation is required. Explain skipped roles and avoid concentrating on one familiar evidence channel.
+
+Favor YouTube for creator discovery; Instagram is supplementary. Apply the shared [creator evidence rules](../../../../docs/startup-skills/research-guide.md#creator-material-and-attention-signals). Keep access failure separate from negative business evidence. Continue with substitutes when a source only adds breadth; essential unsupported claims keep the affected candidate provisional and may leave its research incomplete under the depth standard.
+
+Investigate overseas-to-India adaptation when it fits the chosen geography and angle. Establish the original buyer/offer/economics, then check Indian customer behavior, local alternatives, language, prices/payment, acquisition and delivery constraints. Explain what transfers and what needs changing. Foreign traction is evidence about that foreign business; localization or a creator's nationality does not establish Indian demand. Preserve an international-only brief.
 
 ## Build a diverse research pool
 

@@ -1,0 +1,54 @@
+# Decide category subagents and synthesis ownership
+
+Parent: [Research and deliver startup idea scout version 2](../map.md)
+Labels: wayfinder:grilling
+Type: grilling
+Mode: HITL
+Status: resolved
+Assignee: Codex
+Blocked by: 04, 12
+
+## Question
+
+How should category-based subagents discover and research candidates while one coordinator produces a coherent, evidence-backed comparison?
+
+Decide each agent's inputs, source/category ownership, output contract, evidence provenance, candidate handoff, cross-category deduplication, integration responsibility and restart behavior. Determine whether category agents only propose leads or also perform full assessments, who owns cross-source counterchecks, and how the existing fifty distinct deep assessments are counted. Specify concurrency-aware batching, failure/retry and sequential fallback, time/effort controls, and preservation of one canonical run record with temporary intermediate artifacts.
+
+The user already requests category subagents; the open decision is their actual contract. Consult grilling and domain-modeling. Use environment facts and current record conventions rather than asking the user to solve implementation details.
+
+Use the agreed opening brief as the workers' shared search scope. Preserve explicit choices, distinguish priorities from exclusions, and check diversity across starting models, customers, motives and discovery angles within that scope. A mixed search does not multiply the campaign's fifty-assessment requirement by category or questionnaire combination.
+
+## Comments
+
+2026-10-29 — Claimed by Codex. Both prerequisite decisions are resolved. First decision round sent to the user; answers pending, proposals are not adopted:
+
+1. **Assessment ownership:** recommend source-category discovery, coordinator deduplication, then assignment of each distinct idea to one worker for a full assessment using any relevant sources. Coordinator checks evidence, compares and writes the final report. Alternatives: independent full assessments before merging, or lead-only workers with all assessments done by the coordinator.
+2. **Coverage allocation:** recommend a broad start across every relevant source role, then adapt effort to findings and gaps while checking diversity against the chosen brief. Alternative: roughly equal assessment allocations by relevant source role. The fifty-assessment requirement remains campaign-wide.
+3. **Effort control:** recommend completing the required assessments without a default time limit, with durable checkpoints; honor an explicit time/cost limit and report an incomplete campaign at that limit. Alternative: establish a time limit before every fresh campaign. Paid-access rules remain unchanged.
+
+Read-only exploration of existing depth, evidence, record and tool contracts delegated under the grilling skill. Operational details and dependent decisions will follow the user's answers; this ticket remains open for the live exchange.
+
+2026-10-29 — User accepted all three first-round recommendations: two-stage discovery then assigned full assessments; broad relevant source-role coverage followed by adaptive effort; completion first unless the user specifies a limit. These decisions are settled. Repository inspection confirms existing eight-part depth requirements, distinct-idea counting, separate evidence deduplication, stable anchors and one canonical run file. No existing contract assigns worker/coordinator ownership. The operational agreement below was then presented for confirmation.
+
+
+2026-10-29 — User agreed to both second-round recommendations: focused independent checks and the operating agreement. They also asked for a much simpler explanation: the purpose is to split the many sources among subagents. Keep future explanations short and concrete; operational details belong in the instructions, not repeated user questionnaires.
+
+## Answer
+
+Resolved 2026-10-29 through the user's acceptance of both decision rounds.
+
+Use research assistants to cover different groups of sources. The main agent combines their findings, removes repeated ideas, assigns deeper research, checks the strongest options and produces one report. The accepted operating contract follows.
+
+- **Shared inputs and discovery ownership:** coordinator passes the accepted opening brief, relevant founder constraints/profile reference, selected source roles/catalog, existing candidate/evidence index, explicit exclusions versus preferences, available tools and access/budget limits, and the expected return format. Source roles are evidence channels, not industries or business models. Assign each relevant role to an explicit worker, using waves when slots are limited; one worker can cover multiple named roles sequentially. Record skipped roles and why. Workers return candidate customer/offer/buying reason/route-to-market, source origins and actual inspected findings, source/access coverage, related candidates, uncertainties and next checks. Discovery returns do not count as completed assessments. Keep discovery bounded by assignments, then revisit gaps after synthesis rather than exhausting every source before assessment begins.
+- **Deduplication and full assessment:** coordinator compares commercial propositions and allocates stable idea IDs before full-assessment work. Similar names or the same underlying company are clues, not sufficient merge rules; distinct audience/offer/buying reason/route-to-market must support a materially different commercial case. Merge repeated propositions, retain source contributions, and explain genuinely distinct variants. Assign one assessment owner per idea in small adjustable batches (start with 1–3 ideas per assignment). Workers research across source roles using the existing assessment template and all eight depth dimensions; a creator-discovery assignment does not restrict later research to creator content. Continue discovery as needed to reach fifty accepted distinct assessments within scope.
+- **Evidence and return contract:** each assessment returns source URLs/artifacts and authors, dates and context, inspected versus reported/unverified material, claim support and contradiction, calculations and assumptions, evidence limitations, related ideas, research status separately from business verdict, and precise remaining work. Workers use assigned idea IDs and local evidence references; coordinator resolves shared evidence and assigns/checks canonical anchors at integration. Deduplicate underlying observations independently of candidate ideas; syndicated articles and cross-posts are not independent corroboration. Preserve user-supplied transcript provenance and partial audiovisual coverage.
+- **Verification:** each assessment owner performs cross-source and contrary checks. Coordinator reads every assessment and its supporting evidence, verifies depth, distinctness, links, freshness and consistency, and accepts it into the canonical count only after integration. In addition, assign a different worker a focused challenge of the proposed winner, 3–5 alternatives/discussion options, and any decision-changing conflict or weak claim that affects their ranking. When another worker is unavailable, the coordinator performs and labels a separate challenge pass without calling it independent-agent review. This adds scrutiny to conclusions without requiring a second complete research pass for all fifty. Resolve challenges before final comparison; a rejected contender can trigger review of its replacement.
+- **Scheduling and failure:** coordinator owns the queue and uses actual available concurrency, preserving its own slot; this session allows up to three workers alongside the coordinator, not a permanent skill limit. Checkpoint after each returned batch so slow work does not hold up finished work. On worker/tool failure, salvage usable material, attempt one targeted retry or reassignment when it could help, then change route or work sequentially; do not repeat unchanged failures indefinitely. A known access restriction calls for a fallback, not a ritual retry. Failures remain distinct from negative business findings. If delegation is unavailable, disclose that category work is being done sequentially by the coordinator and retain the same coverage/depth requirements. No extra permission is needed for this fallback within an authorized campaign.
+- **Canonical ownership and restart:** only coordinator writes the canonical run, final comparison and user-facing report; workers return results or write assigned temporary artifacts. Coordinator rereads before writes, preserves newer changes, integrates useful partial findings and remaining tasks, and keeps the actual verified count plus candidate states and assignments in the run. Temporary artifacts are staging material, never required permanent dossiers. On resumption, reload the saved brief/index/assessments, recheck counts, freshness and unresolved tasks, salvage available temporary returns through the same acceptance checks, and reassign unfinished work; neither stale assignments nor a worker's claim of completion counts as accepted research. No resumed run depends on an old agent still being alive.
+- **Effort and completion:** no default time limit or equal category quotas; honor explicit user limits and existing paid-access rules across all workers. Give progress in accepted assessments out of at least fifty with coverage and next checks. Interruptions save an explicitly incomplete checkpoint with the actual count, provisional leaders and precise continuation tasks. Fully researched negative verdicts count; screening notes, duplicates and substantive research left undone do not. Final audit covers every counted idea before comparison. Source breadth, chosen model/customer/motive/discovery-angle diversity and source gaps remain visible; adapting effort does not silently change scope.
+
+No further decision is needed on this workflow. No new domain glossary term or separate research record is required.
+
+Next owner: wayfinder with the user, using prototype for [Agree a concrete scout report with business labels and source coverage](06-agree-report-example.md). Show how combined research becomes a clear report, including concise coverage/progress and incomplete-work examples. Suggested next prompt: “Use wayfinder with `.scratch/scout-skill-v2/map.md` to work on Agree a concrete scout report with business labels and source coverage.” The report presentation remains undecided.
+
+Runtime skill edits and behavioral verification remain assigned to [Update and verify the agreed scout version 2](07-update-verify-scout.md). Carry the accepted contract into delegation instructions and check duplicate discoveries/evidence, incomplete worker returns, focused challenges, limited concurrency, sequential fallback and interrupted/resumed runs. This decision ticket does not claim those changes or tests have been implemented.

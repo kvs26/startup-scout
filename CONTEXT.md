@@ -42,3 +42,15 @@ The user's choice to pursue, investigate, postpone, or decline an idea, which is
 
 **Customer-test plan**:
 A proposal for checking a claim with relevant customers, saying how to gather evidence and what would change a decision; it is not a completed test.
+
+**Starting business model**:
+How an opportunity would initially earn money and deliver value, such as a service or a product; this does not determine how large it might become.
+
+**Potential scale**:
+A reasoned hypothesis about how far an opportunity could grow and what would enable or limit that growth, separate from its starting business model and not a prediction of success.
+
+**Time to first revenue**:
+The elapsed time from starting an opportunity to its first revenue-generating transaction. It is distinct from build time, receipt of the payout, recovery of costs and profit.
+
+**Freelancing / paid client work**:
+Work sold as an assignment or engagement for a client, with an agreed deliverable or service. It is distinct from selling a product the founder owns, although it may develop into a repeatable service or product business.

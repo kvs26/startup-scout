@@ -13,17 +13,25 @@ Founder profile: {{Reference/date and relevant constraints}}
 
 ## Coverage and research plan
 
-{{Record the initial industry sampling pool/method, displayed industry and saved-lead options, and the user's selected directions. If the user supplied scope directly or explicitly delegated the choice, record that instead of inventing a menu. If awaiting selection, show zero completed assessments and the next user choice. Keep this preparation in the same run file.}}
+{{Save the accepted brief: category/track, starting-model constraints, commercial priority, discovery angle, customer type, geography, chosen areas/leads, business budget, available time, learning/customer-work preferences, exclusions and promotion limits. Retain displayed single-choice options, actual answers or explicit delegation, and pending choices. Record the industry sampling pool/method/results and actual named bundles/leads. Reuse supplied answers. If awaiting selection, show zero accepted assessments and pending questions. Keep the separate aggregate research-API planning cap distinct from business costs and actual paid authorization.}}
 
 {{Describe the pool within the selected sectors/themes across audiences, motives and business models, including consumer wants, non-regulated business work and established paid categories where scope allows. The 50-idea minimum applies to the whole campaign, not each selected direction. Record atlas routes actually read. Explain concentration and remaining coverage; industry names or query counts alone do not establish diversity.}}
 
-{{For continuation, identify completed work retained, downgraded/stale assessments, duplicates and the next batch. A live index can change while research is incomplete; completed reports retain their dated conclusions.}}
+{{For continuation, show the saved brief and requested changes, completed work retained, affected/downgraded/stale assessments, duplicates and the next batch. A live index can change while research is incomplete; completed reports retain their dated conclusions.}}
+
+### Source coverage and assignments
+
+| Source role / assigned worker or sequential owner | Sources actually inspected and findings | Access state, omissions and fallback | Next work / returned / integrated |
+| --- | --- | --- | --- |
+| {{Relevant role; explain skipped roles}} | {{Canonical evidence links; distinguish article, synopsis, metadata, transcript and audiovisual inspection}} | {{Checked date; breadth-only or essential gap; precise linked request if useful}} | {{Discovery versus assessment assignment, idea IDs, temporary return integrated or still pending}} |
+
+{{Use the delegation guide. Record accepted counts after each returned batch, candidate merges and shared observations, plus challenges by a different worker or a labeled coordinator pass. Retain all useful material and resume tasks here so an old worker or temporary file is not required to continue.}}
 
 ## Assessment index and full comparison
 
 {{One row per idea with a link to its assessment anchor in this file, such as #i001. Every counted row must meet the depth standard. Keep partial/screened/duplicate rows separately below. Compare the whole completed pool; do not choose a winner after only the easiest few. Use judgment with stated uncertainty, not a fabricated aggregate score.}}
 
-| ID and assessment | Customer, offer and payment | Demand/spending evidence | Reason to choose our version and alternatives | Acquisition | Economics, founder fit and growth | Business verdict and comparative priority |
+| ID and assessment | Customer, offer and payment | Demand/spending evidence | Reason to choose our version and alternatives | Acquisition | Starting model, potential scale, economics and founder fit | Business verdict and comparative priority |
 | --- | --- | --- | --- | --- | --- | --- |
 | {{ID + section link; research status and latest check}} | {{Concrete proposition}} | {{Finding + limits}} | {{Baseline, proposed advantage and uncertainty}} | {{Route + unknowns}} | {{AI-assisted production, cost drivers, founder judgment, growth and limits}} | {{Reasoned position within the pool; not predicted profit}} |
 
@@ -35,7 +43,7 @@ Founder profile: {{Reference/date and relevant constraints}}
 
 ### {{Recommended idea or discussion option ID and name}}
 
-{{Explain the customer, motive, offer, imagined use and payment. State strongest appeal, strongest doubt, relevant competitor, acquisition and cost/fit implications, growth possibility, and what could make it work. Explain why it leads other researched options and the next decision-changing check. Keep each option understandable without following its detail link. Repeat for 3–5 fallback options when needed.}}
+{{Use the accepted plain-language order: best idea (customer/offer/imagined use); how you could earn (customer route/payment/costs); what it takes (work/learning/time); why it leads (support/doubts/current alternative); alternatives below; next step below. Use short sentences. Keep detailed calculations and source contributions in the assessment sections; include doubts that change the decision in this explanation. Repeat concise explanations for 3–5 discussion options if no winner qualifies.}}
 
 **Recommendation:** {{Scout judgment, conditions and uncertainty; a fallback discussion option is not automatically endorsed.}}
 
@@ -47,7 +55,7 @@ Founder profile: {{Reference/date and relevant constraints}}
 
 ## Research limits and completion audit
 
-{{State the verified distinct completed count and how each counted assessment met the eight depth requirements. Distinguish inaccessible evidence, private buying questions and unperformed work. Name duplicates removed, freshness issues, coverage limits and unresolved comparison questions.}}
+{{State the verified distinct accepted count and how every counted assessment passed the eight depth requirements. Distinguish inaccessible evidence, private buying questions and unperformed work. Name duplicate ideas and observations merged, freshness issues, chosen-scope diversity, coverage limits and unresolved comparison questions. Link focused finalist challenges and their resolution; identify reviewer independence accurately.}}
 
 {{If complete: explain why research is sufficient for this comparison and what still needs customer testing. If incomplete: explain the interruption or constraint, count, affected ideas and precise remaining work. No early favourite, budget exhaustion or long report establishes completion.}}
 

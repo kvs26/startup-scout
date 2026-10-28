@@ -10,6 +10,14 @@ Business verdict: {{candidate worth investigating / promising lead, evidence inc
 Assessed: {{Date; important source dates belong with observations}}  
 Related ideas: {{IDs/links and why this proposition is distinct; do not count duplicates}}
 
+Starting business model: {{How the first offer earns and delivers value; client assignment / repeatable service / owned product / marketplace or an accurate description}}
+
+Potential scale: {{Separate growth hypothesis, evidence, assumptions and constraints; unknown where unsupported}}
+
+Search category and priority: {{Brief's selected track and how it affects comparison; a model label alone implies no scale}}
+
+Assessment owner and acceptance: {{Worker or coordinator; integrated/accepted date or unfinished work; finalist challenge link if relevant}}
+
 #### Customer, offer and use
 
 {{Explain the audience, geography where relevant, motive and purchase occasion. Show the present work or experience, payer and approver, first offer and an explicitly imagined use. Mark inferred steps. Explain what one payment would buy and why use or sales might recur.}}
@@ -26,9 +34,17 @@ Related ideas: {{IDs/links and why this proposition is distinct; do not count du
 
 {{Name a concrete channel or access route, what was verified, selling requirements and unknown acquisition costs. Explain pricing/payment assumptions, initial and ongoing spend, usage costs, support and founder labor. Use a scenario with sources/assumptions and calculations when useful; retain unpriced dependencies and distinguish revenue, contribution and profit.}}
 
+{{For a small-product search prioritizing early earnings, apply the commercial guide's speed-to-revenue rules: show the path to first payment and payout, timing evidence/assumptions, build and distribution blockers, and cost recovery. For a novelty or trend-based app, explain the sharing hook, first audience, payment conversion and what happens with modest reach or fading interest.}}
+
+{{For freelance/client work, apply the commercial guide's client-work assessment: specify the paid deliverable, first-client route, sales and delivery hours, revisions, fees and payout terms. Keep offered rates distinct from obtained work and net earnings.}}
+
+{{For an attention/sharing hypothesis, identify the audience, channel, hook, proposed experiment, effort/cost and path from views to paid conversion. State what modest reach implies and what would disprove the hypothesis; research does not execute promotion.}}
+
 #### Delivery, founder fit and growth
 
 {{Assess feasibility and costs under the founder's planned AI-assisted production through separate skills or automations: inputs, integrations, proposed output checks, retries, tool costs, founder direction and customer work. Apply the commercial guide's AI-assisted production guidance; this assessment does not create the product or its assets. Cover domain learning, any grounded specialist dependency, time/budget fit and unassessed abilities. Explain how profit could grow beyond the entry offer and what would need to become true.}}
+
+{{When adapting an overseas model for India fits the brief, compare the original buyer/offer with local demand, alternatives, price/payment, language, acquisition and delivery. Explain transfer assumptions and necessary changes; foreign traction is not Indian demand.}}
 
 #### Judgment and next check
 
@@ -48,6 +64,8 @@ Related ideas: {{IDs/links and why this proposition is distinct; do not count du
 ##### {{ID}} E001
 
 {{Source URL/artifact; author; event/publication/retrieval dates; audience/market; what was read and reported/observed; claim supported or challenged; source limits. Use subsequent stable IDs as needed. If evidence already lives in another record, link its exact ID instead of copying the observation.}}
+
+{{For creator material record original episode/post, speaker/incentive, timestamps, article/synopsis/transcript/visual coverage and omissions. User-supplied excerpts retain supplied-by/receipt date and unverified origin/context where applicable. Attribute earnings with period, revenue/profit/payout distinction and evidence limits. Link cross-posts to the same underlying observation.}}
 
 <a id="{{idea-anchor}}-c001"></a>
 ##### {{ID}} C001

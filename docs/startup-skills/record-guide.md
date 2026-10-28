@@ -98,7 +98,7 @@ When a comparison is requested, date `opportunities/comparison.md` and make it u
 
 When one opportunity changes, update its affected overview content and explain whether the others were reassessed. Retain the last comparison date where useful; mark older/unreviewed findings. A partial update is not a new full comparison. Keep earlier scouting reports available as historical views.
 
-A scout handoff links the current opportunity summary and relevant run, identifies the current proposition, evidence and contrary findings, business requirements, and unfinished investigation. Keep the user's explicit selection separate from the scout's recommendation. An investigator handoff adds the current offer and selected test plan; customer-connect adds sourced contact routes and preparation. No handoff implies permission to send messages, purchase anything, or run a live test.
+A scout handoff links the current opportunity summary and relevant run, identifies the current proposition, evidence and contrary findings, business requirements, and unfinished investigation. Carry the chosen search priority, starting model and separate scale hypothesis so later investigation preserves the reason for the recommendation. Keep the user's explicit selection separate from the scout's recommendation. An investigator handoff adds the current offer and selected test plan; customer-connect adds sourced contact routes and preparation. No handoff implies permission to send messages, purchase anything, or run a live test.
 
 ## Use the templates
 

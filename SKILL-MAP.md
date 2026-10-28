@@ -6,19 +6,19 @@ This is the shared map of this project's startup workflow: which skills exist, w
 
 | Skill | Use it for | Inputs and saved outputs |
 | --- | --- | --- |
-| [startup-idea-scout](.agents/skills/startup-idea-scout/SKILL.md) | Help choose search areas, discover and compare ideas, assess a supplied idea, or resume a search | For an unspecified broad search, offers random industries plus saved leads and waits for the user's area choices. Uses the founder profile and chosen brief. Saves one run file in `scouting-runs/`; promotes the strongest recommendation or a selected idea into its opportunity folder. |
+| [startup-idea-scout](.agents/skills/startup-idea-scout/SKILL.md) | Establish a search brief, discover and compare ideas, assess a supplied idea, or resume a search | Uses single-choice opening menus for missing fresh-search choices, including sampled industries/saved leads and named bundles; waits for answers or explicit delegation. Category assistants discover sources, research assigned ideas and challenge finalists; coordinator checks and combines one run in `scouting-runs/`. Preserves freelance versus owned-product choices, track-specific priorities and separate model/scale labels. Presents a simple result and promotes the strongest recommendation or a selected idea for investigation. |
 | [startup-opportunity-investigator](.agents/skills/startup-opportunity-investigator/SKILL.md) | Investigate a chosen opportunity, assess business viability and costs, design customer tests, or reassess returned evidence | Accepts a scout handoff, direct idea or customer results. Maintains the opportunity's research, summary, relevant calculations, test plans and history. |
 | [startup-customer-connect](.agents/skills/startup-customer-connect/SKILL.md) | Find relevant people and contact routes; prepare learning, sales or negotiation conversations; save replies | Uses the current opportunity and conversation goal or selected test. Saves contact preparation and actual returned results in the same opportunity. Returns business reassessment to the investigator. |
 
 The [founder profile](FOUNDER-PROFILE.md) supplies shared context. The [record guide](docs/startup-skills/record-guide.md) owns record formats, evidence identity and [production boundaries](docs/startup-skills/record-guide.md#skill-boundaries). This map owns relationships and routing. These three skills remain research and preparation skills; the user's planned production skills or automations will be added when they exist.
 
-The user's [lead notebook](.agents/skills/startup-idea-scout/references/user-leads.md) holds ideas, personal problems and inspiration. Adding a lead saves it for later choice; it does not launch research. The scout's [scope-selection method](.agents/skills/startup-idea-scout/references/discovery.md#choose-the-search-areas) governs the initial menu and when an existing scope skips it.
+The user's [lead notebook](.agents/skills/startup-idea-scout/references/user-leads.md) holds ideas, personal problems and inspiration. Adding a lead saves it for later choice; it does not launch research. The scout's [opening brief](.agents/skills/startup-idea-scout/references/discovery.md#establish-the-opening-brief) owns fresh-search choices and resumed-brief reuse. Its [delegation guide](.agents/skills/startup-idea-scout/references/delegation.md) owns category workers and coordinator acceptance; the shared [source catalog](docs/startup-skills/source-catalog.md) is the single maintained resource/access list. Dated research artifacts retain history.
 
 ## How work moves
 
 ```mermaid
 flowchart LR
-    Areas[User chooses search areas when unspecified] --> Scout
+    Areas[User supplies or selects missing search choices] --> Scout
     Scout[Idea scout] -->|Opportunity to investigate| Investigator[Opportunity investigator]
     Idea[User supplies an idea] --> Investigator
     Investigator -->|Customer question or selected test| Connect[Customer connect]

@@ -1,6 +1,6 @@
 # Shared starting resources for startup scouting
 
-Initial checks: **2026-10-03**; work-map and review-channel additions checked **2026-10-17**. This is the shared runtime starting-source catalog, selected in [Decide how the scout discovers and compares open opportunities](../../.scratch/startup-skills/issues/07-decide-scout-workflow.md). It builds on [discovery-source research](../../.scratch/startup-skills/issues/03-research-discovery-coverage.md) and [reusable-toolkit research](../../.scratch/startup-skills/issues/12-research-reusable-startup-toolkit.md).
+Maintained resource/access list, consolidated **2026-10-29**. Dates below identify actual checks, not continuing access guarantees. The dated [source audit](../../.scratch/scout-skill-v2/selected-source-access-audit.md), [creator research](../../.scratch/scout-skill-v2/creator-source-research.md), [additional creators](../../.scratch/scout-skill-v2/additional-creator-research.md) and [connection results](../../.scratch/scout-skill-v2/checks/research-access.md) are historical evidence. Update this catalog as routes change; cite material actually used in each run. Earlier checks date to October 3/17.
 
 This is a starting menu, not an exhaustive catalog, approved vendor stack, or checklist every run must complete. The scope is software, AI, and similar technology serving any industry and geography. Choose sources around the customer and question; add useful sources found during research. The examples below demonstrate retrieval and source roles, not selected startup ideas.
 
@@ -8,7 +8,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 ## How to use and maintain this list
 
-- Start with ordinary web search and selective page/link reads. The checks below used those tools without accounts or new installations. They establish access to sampled pages, not exhaustive crawling, whole-site coverage, API access, or continuing access guarantees. No integration is adopted by this file.
+- Start with public/free originals and verified included allowances. Distinguish documented routes, configured clients, tested retrieval, partial results and deferred access. A public page does not establish API entitlement, complete archives or bulk rights. Use [tool routing](tools.md) and SETUP for actual configuration; this catalog stores no secrets.
 - Follow a result to its original account and read relevant replies, dates, corrections, workarounds, and linked resolutions. Search explicitly for satisfactory alternatives and reasons the proposed solution might be unnecessary. A first-person public account is a reported experience, not a verified identity or verified purchase.
 - Distinguish method advice, expert prompts, customer/problem reports, advertised offers, official market context, and supplier inputs. Popularity, repeated complaints, a large population, and an investor's interest do not establish paid demand for the proposed opportunity.
 - Record source URL, relevant statement, publication/event period, check date, market/population, and access state with the opportunity evidence. Deduplicate underlying incidents and sources, including several list entries or cross-posts derived from one discussion.
@@ -16,6 +16,103 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 - Use relevant regional languages and local names for occupations and workflows. English business/technology communities cannot represent all customers. For an unfamiliar market, find its own practitioner communities, statistical office, industry bodies, public-buyer records, and local alternatives. Check translation meaning when it changes the claim.
 - Keep a compact record of searched directions and omitted or inaccessible populations. Distinguish no relevant results from a source failure, login wall, partial extraction, or an unattempted source. None means that demand is absent. Where public sources cannot answer the question, state the missing observation or customer test rather than inventing it.
 - Add relevant resources as they are discovered, with the same role, limits, access state, and check date. Recheck resources when used; update broken links and changed access. Keep this menu small by linking opportunity-specific material from that opportunity's evidence instead of expanding the shared list indefinitely.
+
+## Source roles and starting portfolio
+
+Choose relevant roles after establishing the brief. Search broadly within them, follow useful new sources and expand thin/concentrated coverage. These six roles overlap; there is no numerical source quota, fixed 10–14-source cap or requirement to inspect every site. Customer originals, current alternatives and contrary checks still matter for each deep assessment. India adaptation is relevant only when the brief calls for it.
+
+| Role | Starting resources and purpose |
+| --- | --- |
+| Customer situations | Razorpay Fix My Itch, relevant communities, product forums and reviews: actual tasks, wants, satisfactory workarounds and objections. |
+| Products and overseas models | YC Directory, BetaList, Show HN, usable Product Hunt pages: locate offers, then follow company/customer originals. |
+| Economics and failures | Indie Hackers, accessible Starter Story, Microns, Failory: acquisition, costs, reported earnings and failed approaches. |
+| Creator ideas | YouTube-first pool below: small opportunities and emerging demand leads, with original-content/provenance checks. Instagram supplements it. |
+| Changes and context | YC RFS, relevant official/industry sources and trend publications: changes worth investigating, not demand proof. |
+| Target-market fit and alternatives | Local businesses/practitioners, YourStory for India, AlternativeTo/SaaSHub: local offer, payment and delivery checks. |
+
+### Selected websites and access
+
+All rows below were sampled **2026-10-29** unless a prior date is named. “Public” means no new source subscription was needed for that sample; account/API rights remain separate. Search readers sometimes return indexed/cached material, so refresh time-sensitive claims and distinguish retrieval from publication date.
+
+| Resource / purpose | Usable route and observed state | Cost/access limits and fallback |
+| --- | --- | --- |
+| [Razorpay Fix My Itch](https://razorpay.com/m/fix-my-itch/) — problem prompts | Public descriptions readable. | No discovery API verified; bank-wide enumeration and underlying respondent accounts unverified. Follow customer evidence. |
+| [YC Directory](https://www.ycombinator.com/companies) — company models | Root extraction empty; search-to-industry/profile worked, including a redirected company. | No official directory API established; filters/bulk retrieval untested. Follow canonical company site. |
+| [BetaList](https://betalist.com/) — early products | Dated listings and individual profile readable. | API is case-by-case under [help](https://betalist.com/help); permission/price/quota unverified. Submission fees are unrelated to reading. |
+| [Product Hunt](https://www.producthunt.com/) — launches | Public homepage and product sample readable. | [API](https://www.producthunt.com/v2/docs) requires token and business-use clearance; no unrestricted free commercial API established. |
+| [Indie Hackers](https://www.indiehackers.com/stories) — operator economics | Current index partial; original-post snippets/robots limits, no full current case body verified. | No general API/working feed verified. Read accessible operator originals or request a precise missing passage; snippets are leads. |
+| [Starter Story / Pat Walls](https://www.starterstory.com/pat) — interviews | Public synopsis/tool links and free-data signup promotion readable; no sample transcript. | Current promotion offers free data through email signup; delivered fields/account/export rights untested. No email submitted or paid research plan selected; do not assume all research requires payment. |
+| [Microns](https://www.microns.io/) — sale economics | Public descriptions, annual-revenue claims and asking prices readable. | [Pricing](https://www.microns.io/pricing), checked Oct 29: Buyer Free $0 with delay; Premium $40/month or $299/year upfront, unselected. No listing API verified; seller numbers are claims. |
+| [Failory](https://www.failory.com/interviews) — failures | Index and full founder interview readable. | Public interviews/[archive](https://www.failory.com/archive); no content API established. Attributed founder reports. |
+| [YC RFS](https://www.ycombinator.com/rfs) — change prompts | Web and Tavily text extraction passed. | Public editorial, no dedicated API established; investor interest is not demand. |
+| [YourStory](https://yourstory.com/) — India operators/context | Homepage and indexed article sample readable. | No public content API/working feed verified; gated products/archive coverage untested. |
+| [AlternativeTo](https://alternativeto.net/) — substitute pointers | Zoho Books alternatives sample readable. | No current official API established. Verify features/prices with vendors and relevant users. |
+| [SaaSHub](https://www.saashub.com/) — substitute pointers | Public alternatives sample readable, older crawl reported. | [Beta API](https://www.saashub.com/site/api): keyed lookup/top-ten alternatives with disclosure. Numeric price/quota unknown, key absent in checked project locations, API deferred. Public route remains usable. |
+
+### Structured and retrieval routes
+
+| Route / purpose | Actual state and checked date | Cost, limits and fallback |
+| --- | --- | --- |
+| [HN Firebase](https://github.com/HackerNews/API) — Show/Ask leads and comments | Oct 29: both lists, one story and one direct comment passed without a key. | Free route; pace/cache calls, follow children/context. List success does not establish full trees or historical search. Public HTML/search fallback. |
+| [GitHub public REST](https://docs.github.com/en/rest/issues/issues#get-an-issue) — issues and replies | Oct 29: ERPNext issue body/state and one comment passed without a token; reported limit 60/hour/IP. | Read actual rate/secondary limits; sample is not full history. Public pages fallback. |
+| [Stack Exchange v2.3](https://api.stackexchange.com/docs) — specialist questions/answers | Oct 29: Workplace body/answer passed with `filter=withbody`; observed anonymous quota **300**, not 10,000. | Honor returned quota/backoff and attribution/licensing (sample CC BY-SA 4.0). Bodies/pagination require appropriate parameters; public page fallback. |
+| [Tavily](https://docs.tavily.com/documentation/api-credits) — supporting search/extraction | Oct 29: existing-key REST usage/search/extraction passed. VS Code MCP config exists; this chat exposed no Tavily tool. Map/crawl checks remain Oct 10 history. | Account snapshot 108/1,000 included credits used; immediate counters lagged. PAYG limit null does not mean disabled/capped. Recheck allowance and bound calls; built-in search is separate. |
+| YouTube Data API — metadata/comments | Oct 29: no credential in checked project locations, no API call. | No arbitrary spoken transcript access. Known-channel uploads playlists can aid metadata discovery after actual setup/quota verification; publisher text/user excerpts work without it. |
+| Browser fallback | Oct 29 bootstrap failed before navigation (`node:process` import unavailable). | No YouTube UI/sign-in/caption check occurred. Recheck available browser capability when useful; use publisher originals or precise user material meanwhile. |
+
+**Research budget:** aggregate paid-API planning cap ₹1,000/month; no new subscription or overage authorized. Separate it from the founder's business budget. Tavily's Oct 29 documented prices were 1,000 free credits/month, $0.008/PAYG credit and $30/month for 4,000 credits. Even a hypothetical 500-credit $4 purchase needs current all-in INR cost, taxes, billing controls and concrete authorization; no hard cap was established. Use included/free allowance first. API metadata, a configured client and successful content retrieval are different states.
+
+## Creator resources
+
+Use these as candidates selected by the brief, not mandatory channels or endorsements. Shared route: YouTube originals/transcript UI where usable, publisher transcripts/articles and targeted user-supplied excerpts; Instagram is supplementary. [Caption downloads](https://developers.google.com/youtube/v3/docs/captions/download) require edit permission, so a metadata key will not unlock arbitrary captions. No paid transcript vendor/course/community is selected. Apply [creator evidence rules](research-guide.md#creator-material-and-attention-signals), including promotional incentives, earnings attribution and cross-post deduplication.
+
+The first ten rows retain **2026-10-28** checks except explicit Oct 29 updates; the additional twelve were checked **2026-10-29**. No full audiovisual inspection was established by those checks. Public fallback text has no new source subscription requirement; conditional rows remain unverified leads.
+
+| Creator / useful role | Original route and inspected material | Limit / next useful check |
+| --- | --- | --- |
+| Rob Walling / MicroConf — small SaaS | [Episode companion](https://microconf.com/on-air-episodes/microconf-tactics-7-new-saas-ideas-you-can-steal); Oct 29 retest found short synopsis/media links only. | Video fetch failed. Obtain the spoken ideas before relying on them; synopsis is not the seven-idea transcript. |
+| Greg Isenberg / Startup Ideas Podcast — emerging models | [Creator site](https://www.gregisenberg.com/) and original indexed descriptions. | Spoken content not retrieved; follow relevant original episode. |
+| Sam Parr / Shaan Puri / My First Million — models/economics | [Video index](https://www.mfmpod.com/videos/?page=1), original descriptions/show notes. | Fetch/index limits; full transcript unverified. Guest earnings remain reports. |
+| UpFlip — operating-workflow leads | [Source-owned article](https://www.upflip.com/blog/how-to-start-a-cleaning-business), linked videos. | Article text available; offline businesses supply technology context, not eligible recommendations. |
+| Chris Koerner / The Koerner Office — small-business leads | [Site](https://www.chrisjkoerner.com/) / [newsletter](https://newsletter.chrisjkoerner.com/) readable. | Full podcast not reviewed; check episode-level claims. |
+| Think School / Ganeshprasad — India case studies | [Case-study collection](https://thethinkschool.com/case-studies/) text readable. | Recheck business facts with original authorities; case studies do not establish demand for our offer. |
+| Ishan Sharma — India technology/client-work leads | [Ideas episode](https://www.youtube.com/watch?v=9wsAINkaGjo) indexed metadata. | Video failed; conditional pending relevant transcript/content. |
+| Raj Shamani / Figuring Out — operator interviews | [Creator post](https://www.linkedin.com/posts/rajshamani_rajshamani-figuringout-activity-7204463510582386688-SKKw) readable. | Episode timed out; original interview substance still needed. |
+| Codie Sanchez — business-model inspiration | [Creator Linktree](https://linktr.ee/codiesanchez) readable. | Instagram 429; companion content conditional, ordinary offline businesses outside scope. |
+| Ayushman Pandita — India small-opportunity leads | [YouTube](https://www.youtube.com/@ayushmanpandita) / [Instagram](https://www.instagram.com/ayushman.pandita/). | Channel shell/Instagram failure; access-check lead only. |
+| Marc Lou — owned tools and distribution | [ZenVoice account](https://newsletter.marclou.com/p/how-to-build-a-saas-micro-startup-in-days), [viral-product essay](https://newsletter.marclou.com/p/31-principles-of-a-viral-product) read. | Operator self-reports and own-product/education interests; historical platform assumptions need refresh. |
+| Nick Saraev — client work/productization | [Biography](https://nicksaraev.com/biography/) and [site](https://nicksaraev.com/) read. | Separate service customers from audience buying education; revision date uncertain, earnings unaudited. |
+| Jay Clouse / Creator Science — creator workflows | [Publisher transcript](https://creatorscience.com/podcast/bts-april-2025/) relevant excerpts read, route retested Oct 29. | Timestamped text, not YouTube captions/video inspection. Historical needs of one operator; membership/course incentives. |
+| TK Kader — SaaS customer acquisition | [Go-to-market article](https://www.tkkader.com/go-to-market-strategy/) substantive text, retested Oct 29. | Coaching/investment interests; article is not its linked video's transcript. Adapt company-size assumptions. |
+| Noah Kagan — payment experiments | [Validation article](https://noahkagan.com/validate-a-business-idea/) substantive text, retested Oct 29. | Self-reported experiments/book promotion; suggested time/customer counts are his heuristic, not our universal threshold. |
+| Nate Herk — first automation client | [Creator site](https://www.nateherk.com/) plus [bylined first-client guide](https://assets.skool.com/f/b51c57150c70495899bf4bc8aaee8166/ede1a136116f4bcfa765059f3b94444d06d22c07c39b4eef8926a21a2547dafc), pp. 1–6 read. | Asset uploader/original linking post unverified; provisional attribution. Community/book/service promotion; channel shell only. |
+| Nathan Barry — repeat distribution | [Newsletter synopsis](https://nathan.kit.com/posts/remember-when-your-business-felt-like-a-game) read; [video](https://www.youtube.com/watch?v=42TJfNHEdRE) failed. | Exact date unknown; request loop steps/diagram and evidence linking activity to revenue if material. |
+| Liam Ottley — AI services/agency | [Own announcement](https://www.skool.com/learn-ai/the-blueprint-to-become-an-ai-millionaire) and [site](https://liamottley.com/) read. | Promotional growth ladder; full [episode](https://youtu.be/amvEyw_Qrrw) uninspected. Need client economics versus education earnings. |
+| Simon Høiberg — small SaaS operators | [Portfolio/index](https://www.simonhoiberg.com/) read; [stack video](https://www.youtube.com/watch?v=v-AkmjJNxZo) failed. | Titles/dates, not stack performance/cost evidence; obtain relevant transcript. |
+| Ansh Mehra — India AI/UX offers | [Original post](https://www.linkedin.com/posts/anshmehra24_building-a-business-around-ai-in-todays-activity-7340717819359088640-eT3O) read; [episode](https://www.youtube.com/watch?v=iBqw4wShxJY) failed. | Three ideas themselves uninspected; dates inconsistent. Ask for buyer/offer/delivery/cost passages; timestamps unknown. |
+| Pat Walls / Starter Story — operator interviews | [Pat page](https://www.starterstory.com/pat), synopsis and tool links, retested Oct 29. | Overlaps Starter Story website; one evidence family. Free-signup content untested, financial headline unverified. |
+| Dan Martell — SaaS prompts | [Original ideas post](https://www.danmartell.com/6-saas-ideas-for-2023/) read. | Ideas inside uninspected video; inconsistent old dates, coaching/investment incentives. Lower priority for emerging signals. |
+
+If useful missing content could change a decision, provide its original link and request specific buyer/offer/cost passages or relevant frames. Preserve what the user actually supplies and its omissions. Missing Instagram or optional API access is not a completion gate. India customer coverage remains thinner than international creator coverage; check local users, prices and alternatives independently.
+
+## Conditional additions
+
+These retain **2026-10-28** research unless marked Oct 29. Use when a demonstrated gap merits them; no paid/API adoption is implied. Numeric prices are historical billing-currency snapshots, to recheck before any purchase.
+
+| Resource / purpose | Public or documented route | State, cost and limitation |
+| --- | --- | --- |
+| [Google Trends](https://support.google.com/trends/answer/4365538) — search attention | UI/CSV export; [API alpha](https://developers.google.com/search/apis/trends). | Export/API enrollment untested; tariff unknown, attention is not purchases. |
+| [Trend Hunter](https://www.trendhunter.com/rssfeeds) — trends | Public articles and official RSS. | Prior XML/DNS failures; feed contents unverified, no general API established. |
+| [Trends.vc](https://trends.vc/) — trend reports | Public reports/teasers; [Pro](https://access.trends.vc/). | Oct 29 rendered no price; current paid amount unknown, no API verified. |
+| [Springwise](https://springwise.com/bespoke-services/) — innovations | Public articles; quote-based API/file delivery. | No affordable quote established; membership does not imply API access. |
+| [Exploding Topics](https://explodingtopics.com/feature/et-api) — trend data | Public pages, documented paid API. | Prior $249/month Business plus $1,000/month API minimum; outside initial budget, no fresh checkout. |
+| [IdeaBrowser](https://www.ideabrowser.com/idea-of-the-day) — idea prompts | Public idea-of-day attempted. | 403; browser/user material fallback untested, API/current price unknown. |
+| [Startup India idea bank](https://www.startupindia.gov.in/content/sih/en/idea_bank.html), [BHASKAR](https://www.startupindia.gov.in/bhaskar) — India prompts/networks | Public briefs/overview, possible account profiles. | No discovery API verified; profile/export entitlement untested. |
+| [Peerlist Launchpad](https://peerlist.io/launchpad) — launches | Public launch/archive UI. | Empty extraction; browser sample needed, no API/feed or fee requirement established. |
+| [Wellfound](https://wellfound.com/discover/startups) — company leads | Public startup pages. | Recruiting MCP does not establish general discovery API access. |
+| [Acquire.com](https://acquire.com/) — business-sale context | Public editorial or permitted account material. | Listing extraction restricted; no official listing API or research subscription selected. |
+| [Dealroom](https://dealroom.co/api/), [Crunchbase](https://data.crunchbase.com/docs/api-essentials), [Tracxn](https://help.tracxn.com/en/articles/8512359-getting-started-with-tracxn-apis) — company data | Selective public profiles; licensed APIs/exports. | Quote/field/volume limits; affordable licence unverified. Web subscription is not API entitlement. |
+| [Inc42 Datalabs](https://inc42.com/datalabs/pricing/) — India company data | Public previews/editorial; Pro CSV. | Prior ₹1,499/month + GST, auto-renewal, no public API; exceeds initial cap. Conflicting credits/trial terms need checkout check. |
 
 ## Finding the work to investigate
 
@@ -25,7 +122,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 **Limits:** A task list describes work, not frustration, unmet demand, frequency in a chosen firm size or purchasing authority. The listed association is a possible route, not proof anyone will reply.
 
-**Access checked 2026-10-17:** Official search and task/association entry points were readable; no occupation-specific task, association member directory or contact path was verified in this check.
+**Access checked 2026-10-17:** Official search and task/association entry points were readable; no occupation-specific task, member directory or contact path verified. The Oct 29 audit found [API registration](https://services.onetcenter.org/) documentation; account terms/quota/price remain unverified. Public reading is the starting route.
 
 ## Independent problem accounts and discussions
 
@@ -35,7 +132,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 **Limits:** This thread includes both product suggestions and a proposal to simplify the existing spreadsheet process. Posts and replies may be promotional; identities, locations, and spending claims were not verified. Accessible English posts are a selective sample, not a measure of prevalence.
 
-**Access checked 2026-10-03:** Original post and replies readable through search and page opening without login. Deleted replies are mentioned within the conversation. Other communities, pagination, private groups, and API/bulk access were not tested.
+**Access checked 2026-10-29:** Sample post/replies readable again. Other communities, pagination and private groups untested. The [official Data API guidance](https://support.reddithelp.com/hc/en-us/articles/14945211791892-Developer-Platform-Accessing-Reddit-Data) requires approved access and commercial permission; no applicable price/entitlement established. Selective public reading/user material is the available route, not anonymous JSON automation.
 
 ### Frappe Forum: operational software and regional workflows
 
@@ -43,7 +140,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 **Limits:** Represents people using or evaluating that product, including implementers. A feature request may be a configuration, training, or already-addressed issue rather than a separate business. The discussion's regulatory claims require official verification before use.
 
-**Access checked 2026-10-03:** Category and complete short discussion readable without login. Its linked GitHub development issue failed to open in this check; current implementation status remains unverified. No forum/API integration tested.
+**Access checked 2026-10-29:** Sample discussion readable again. Linked development/release status still needs candidate-specific checking. Discourse documents some public JSON/RSS routes, but Frappe endpoints/feeds were not tested; public topic reading is verified without a new source fee.
 
 ### Hacker News: original discussions, with a technology bias
 
@@ -51,7 +148,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 **Limits:** Strong technology/founder and English-language skew. Advice, discussion attention, and self-reported outcomes are not verified customer demand. An old discussion needs a current check.
 
-**Access checked 2026-10-03:** Ask page and sample thread readable. Algolia's page returned only a shell in text extraction, so interactive search and API capability were not tested. No installation needed for the readable pages.
+**Access checked 2026-10-29:** See the structured-route row above for tested official list/item/comment retrieval. Earlier public Ask/thread reading passed; Algolia interface returned a shell, so its interactive/API capabilities remain untested here.
 
 ### Stack Exchange: specific problems and attempted answers
 
@@ -59,7 +156,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 **Limits:** This example skews toward office work and English-speaking participants. Accepted answers and votes indicate community response, not verified effectiveness or buying intent. Many problems are organizational rather than software opportunities.
 
-**Access checked 2026-10-03:** Question index and sample question/answers opened without login. Other communities, filter interactions, and bulk/API access were not tested.
+**Access checked 2026-10-29:** Public question/answer API samples passed; fields, observed quota and attribution limits are in the structured-route row above. Other communities and full pagination remain untested.
 
 ### GitHub issues: product gaps and current resolution status
 
@@ -67,7 +164,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 **Limits:** Repository participants are selective and often technical. Several issue links can describe one underlying problem. A requested feature is not a purchase commitment, and an open issue does not prove the capability is absent everywhere.
 
-**Access checked 2026-10-03:** Public index and sample issue body/status readable. Reactions were unavailable in the extracted sample. Other links, full history, APIs, and authenticated access were not tested.
+**Access checked 2026-10-29:** Public issue body/status and one comment retrieved through REST; see structured-route limits above. Full history, reactions, linked releases and authenticated access were not tested.
 
 ### B2B software reviews: G2 and relevant app marketplaces
 
@@ -75,7 +172,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 **Limits:** Reviewers are a selected group, accounts are subjective, and ratings are not a prevalence measure. Verify the review's role, customer tier, product version, vendor response and present feature before treating the failure as current. A marketplace is useful only when its buyers match the target segment.
 
-**Access checked 2026-10-17:** These first-party methodology and policy pages were readable. Access to full reviews for a particular product, filtering, pagination and automated retrieval was not established by this check.
+**Access checked 2026-10-29:** G2's Zoho Books review sample timed out; Shopify Judge.me reviews exposed dated merchant reviews/replies. Full pagination untested. Earlier methodology/policy pages remain context. G2 API/MCP needs account entitlement (no free broad review allowance or affordable quote established); no general Shopify competitor-review API verified. Use accessible review originals and preserve product/role context.
 
 ### Trustpilot: experiences with existing alternatives
 
@@ -83,7 +180,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 **Limits:** The checked page mixes products within a brand, so a complaint about one product must not be assigned to another. Reviewer identity, location, transaction, and truthfulness were not independently verified. Self-selection and potential promotion limit conclusions; ratings do not measure a proposed startup's demand.
 
-**Access checked 2026-10-03:** Sample review page and displayed review text readable without login. Individual-review retrieval, filters, pagination, and bulk access were not tested. Other review sites are not assumed accessible.
+**Access checked 2026-10-29:** Sample page again exposed dated review text. Individual filters/pagination remain untested. Trustpilot Data Solutions and Business API require distinct entitlements; no free general review-data allowance or numeric licence price verified. Public review reading is the usable route.
 
 ## Supplementary prompts and startup-method guidance
 
@@ -93,7 +190,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 **Limits:** Expresses contributor/investor interests, with substantial AI emphasis and some US-specific and hardware proposals. Apply the agreed software/AI/similar-technology scope; do not inherit YC's investment preferences or treat its interest as evidence that customers will buy.
 
-**Access checked 2026-10-03:** Current text readable without login. Previous-edition controls were visible but not exercised. No content reuse license was established; cite and summarize rather than assuming dataset reuse rights.
+**Access checked 2026-10-29:** Current text readable through web and Tavily extraction. Previous-edition controls not exercised. Cite and summarize; no bulk reuse licence established.
 
 ### Startup Ideas by fayerman-source
 
@@ -127,7 +224,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 **Limits:** Formal surveys generally cover eligible registered firms with at least five workers; micro surveys cover one to four. Informal surveys cover defined areas, typically urban centers. Country, sector, year, sample, and survey version matter. Reported obstacles are research leads, not proof of demand for a particular product.
 
-**Access checked 2026-10-03:** Methods page readable. Questionnaires and a login-domain data portal are linked. Dataset access, account requirements in practice, and country-level downloads were not tested.
+**Access checked 2026-10-03:** Methods page readable. Questionnaires and a login-domain data portal are linked. Dataset access, account requirements and country downloads untested, retained as a deferral Oct 29. Public reports and the general World Bank Indicators API do not establish Enterprise Surveys microdata entitlement.
 
 ### EU and wider European public procurement: TED
 
@@ -135,7 +232,7 @@ This is a starting menu, not an exhaustive catalog, approved vendor stack, or ch
 
 **Limits:** Public buyers are a particular population. Notice publication is not an award or payment; terms, eligibility, contract scale, and incumbent arrangements need checking. TED describes procurement information in 24 official EU languages; do not assume every attachment is translated.
 
-**Access checked 2026-10-03:** Official information page readable and describes free access. Notice search, actual notices/attachments, registration features, translations, and APIs were not tested in this pass.
+**Access checked 2026-10-29:** [Official API documentation](https://docs.ted.europa.eu/api/latest/search.html) confirms anonymous published-notice search; no endpoint request was made. Earlier public information page describes free access. Actual notices/attachments, quota/schema integration and translations remain to check when a procurement brief needs them.
 
 ### India public procurement: eProcurement
 
@@ -184,4 +281,4 @@ The menu combines original discussions, reviews, prompts, official market/buyer 
 
 US statistics remain an adaptive route rather than a fixed current-data claim: the checked [Census County Business Patterns About page](https://www.census.gov/programs-surveys/cbp/about.html) explicitly warns that its information is no longer current while disclosure guidance is reconsidered. Before using CBP, inspect the chosen release and current guidance; employer-establishment data alone also omits nonemployers. This caution updates the earlier discovery research's access snapshot.
 
-The available search/read tools were enough to independently find and read sampled problem accounts, replies, product information, and official context. Missing extraction from some interfaces and one failed development link remain real gaps. A new crawler or research service should be evaluated against a demonstrated retrieval need; this list neither installs one nor assumes it would unlock inaccessible content.
+Public search/read and the sampled structured routes provide starting coverage. Partial extraction, inaccessible reviews/episodes, unconfigured optional APIs and failed browser bootstrap remain real gaps. Evaluate a new service against a demonstrated retrieval need; a subscription cannot be assumed to unlock missing content. Keep an essential unsupported candidate claim provisional while continuing other research.

@@ -8,6 +8,8 @@ Template for `opportunities/<stable-name>/summary.md`. Follow the [record guide]
 
 {{Explain who would pay, what one payment buys, and the proposed charging basis. Give a price and terms only to the extent known; say what remains unset. Distinguish optional additions. Link a related opportunity if relevant.}}
 
+{{Name the starting business model separately from potential scale. Describe growth as a hypothesis with its mechanism, assumptions and limits. When this is a scout handoff, retain the selected category/priority and explain how it affected the recommendation; an owned product, client assignment and growth ambition are different facts.}}
+
 ## The customer and what they want
 
 {{Explain the particular customer group, market and triggering situation. Walk through the present process using people and actions: who supplies information, does the work, checks it and uses the result? Explain unfamiliar terms. Describe the reported difficulty, desired experience or existing spending, its frequency if known, and the limits of applying that evidence to the target customer. Consumer enjoyment and other wants need no invented workflow failure. Link canonical evidence near the claims.}}

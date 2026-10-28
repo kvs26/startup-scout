@@ -1,0 +1,95 @@
+{
+  "checked_date": "2026-10-29",
+  "date_basis": "user session date; this artifact is for this ticket",
+  "results": [
+    {
+      "route": "HN official Firebase API",
+      "status": "tested",
+      "show_count": 139,
+      "ask_count": 19,
+      "item_id": 30186545,
+      "item_fields": [
+        "by",
+        "descendants",
+        "id",
+        "kids",
+        "score",
+        "text",
+        "time",
+        "title",
+        "type"
+      ],
+      "comment_id": 30189310,
+      "comment_fields": [
+        "by",
+        "id",
+        "kids",
+        "parent",
+        "text",
+        "time",
+        "type"
+      ],
+      "comment_text_chars": 2177,
+      "coverage": "two lists, one fixed story, one direct comment; not full traversal"
+    },
+    {
+      "route": "GitHub public issue and comment REST API",
+      "status": "tested",
+      "url": "https://github.com/frappe/erpnext/issues/59726",
+      "state": "open",
+      "body_chars": 2210,
+      "comments_returned": 1,
+      "comment_body_chars": 930,
+      "rate_limits": {
+        "X-RateLimit-Limit": "60",
+        "X-RateLimit-Remaining": "59",
+        "X-RateLimit-Reset": "1793226507"
+      }
+    },
+    {
+      "route": "Stack Exchange question and answer API",
+      "status": "tested",
+      "url": "https://workplace.stackexchange.com/questions/203604/making-knowledge-transfer-without-giving-your-personal-notes",
+      "body_chars": 2536,
+      "answers_returned": 1,
+      "answer_body_chars": 524,
+      "quota_max": 300,
+      "quota_remaining": 298,
+      "backoff": null,
+      "content_license": "CC BY-SA 4.0",
+      "coverage": "one question and at most one answer; authors and links must accompany reused evidence"
+    },
+    {
+      "route": "Tavily authenticated REST",
+      "status": "tested",
+      "usage_before": {
+        "current_plan": "Researcher",
+        "plan_usage": 108,
+        "plan_limit": 1000,
+        "paygo_usage": 0,
+        "paygo_limit": null
+      },
+      "search_results": [
+        {
+          "url": "https://www.ycombinator.com/rfs",
+          "content_chars": 1331
+        }
+      ],
+      "extract_results": [
+        {
+          "url": "https://www.ycombinator.com/rfs",
+          "content_chars": 23486
+        }
+      ],
+      "extract_failed_count": 0,
+      "usage_after": {
+        "current_plan": "Researcher",
+        "plan_usage": 108,
+        "plan_limit": 1000,
+        "paygo_usage": 0,
+        "paygo_limit": null
+      },
+      "transport": "direct REST; does not establish MCP exposure in this chat"
+    }
+  ]
+}
