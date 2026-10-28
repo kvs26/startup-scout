@@ -1,6 +1,6 @@
 # Founder profile
 
-Last updated: 2026-10-18
+Last updated: 2026-10-27
 
 Shared background for startup scouting, opportunity investigation and customer-connection preparation. This profile records the user's own statements and preferences from the October 11 interview and subsequent startup-skill interactions. Capability has not been independently assessed; interests, intended learning and business goals retain that status.
 
@@ -47,7 +47,7 @@ Information on those sites was checked mainly through AI research and AI verific
 - Enjoys studying mathematics, science and anthropology, and likes reading books. These are learning interests; specific topics, depth and applied competence have not been assessed.
 - Current leads (2026-10-18): interested in selling domain-specific skills/Markdown system files, and suggested automating responses to banks requesting KYC of D. E. Shaw. The latter is a user-supplied workflow lead; personal role, firsthand involvement, decision-maker access and authority to use company information are unestablished. These leads do not restrict open discovery. See the scout’s [saved leads](.agents/skills/startup-idea-scout/references/user-leads.md).
 - Previous scouting brief (2026-10-18): selected professional, scientific and technical services, specifically B2B, with a soft preference for research teams. The [completed run](scouting-runs/2026-10-18-scope-selection.md) retains that scope; it is not a permanent exclusion of consumer businesses or a claim of research-domain experience or customer access.
-- Current scouting brief (2026-10-18): selected saved lead I, deciding what to eat, from the new menu. The [meal-decision run](scouting-runs/2026-10-18-discovery-menu.md) includes cooking and ordering. No explanation of the personal cause, particular product, paying customer or willingness to pay has yet been supplied.
+- Food-assistant brief clarified (2026-10-24): supplied a personal assistant idea learning food preferences, health goals and budget, with delivery choice as the priority. The user's gym participation and firsthand experience provide problem familiarity, not nutrition expertise. Friends reportedly share ordering frustration; their participation in research is not established. See the canonical [lead account](.agents/skills/startup-idea-scout/references/user-leads.md#2026-10-24--clarified-food-planner-account) and [focused scout](scouting-runs/2026-10-24-personal-food-assistant.md). Paying customer acceptance remains unknown. The earlier [meal-decision run](scouting-runs/2026-10-18-discovery-menu.md) is historical.
 
 - Selected investigation (2026-10-18, AI Companions session): explicitly chose AI Companions and asked to proceed directly without offering other ideas. Continue the selected opportunity in [ai-companions](opportunities/ai-companions/summary.md). This task-specific choice does not erase other saved scouting sessions or change the general open-discovery minimum. No narrower audience, price, product design or new capability was supplied.
 
@@ -55,11 +55,13 @@ When explaining an idea, identify the actual knowledge needed for its customer t
 
 ## Customer access and communication
 
-- Currently unsure how to find relevant potential customers. No warm industry relationships, introductions or willing customers are established.
+- Generally unsure how to find relevant potential customers; no warm industry introductions or willing paying customers are established. For the personal-food-assistant investigation, on 2026-10-27 the user reported being able to recruit friends and limited the first trial to friends. Individual agreement, number and ordering frequency remain unknown; this does not establish access in other markets. See [R001](opportunities/personal-food-assistant/results/R001-founder-assistant-experience.md).
 - Prefers written outreach, including email with agent help. Willing to have conversations and sees conversation skills as something to develop.
 - Willing to conduct demos and support customers; previous sales or interview experience has not been established.
 
 ## Working preferences
+
+- Uses an Android phone (2026-10-27). For the personal-food-assistant investigation, is willing to try existing products and return a review of gaps; ordinary ChatGPT/Claude use so far had no food-specific setup. See [R001](opportunities/personal-food-assistant/results/R001-founder-assistant-experience.md).
 
 - Wants everyday language that explains the customer's situation, what the product or provider does, what is delivered and how payment works.
 - Prefers a natural, direct, specific explanatory voice. Bill Bryson's way of making hard subjects understandable is a writing reference; clear meaning matters more than polished sounding phrases.
@@ -128,5 +130,11 @@ Ask about these only when they would change a decision:
 - **2026-10-18 — Meal-decision lead selected.** Source: reply “I” to the scout menu, whose option I was the saved problem of deciding what to eat across ordering and cooking. This selects the next research scope, not a product, payment preference or new capability. The previous B2B research-team preference remains historical to its completed campaign.
 
 - **2026-10-18 — AI Companions explicitly selected.** Source: “do the AI Companions directly don't give option just choose this”. Proceed with that selected business without another choice menu or unrelated discovery campaign. Record the selection separately from commercial confidence and preserve other task-specific research. See [the investigation](opportunities/ai-companions/rounds/2026-10-18-selected-investigation.md).
+
+- **2026-10-24 — Food assistant clarified.** Source: answers to the food-problem interview. The user supplied the actual delivery-decision problem and adaptive assistant concept and requested Indian/global competitor and integration research. Personal details and secondhand friend reports remain in the linked lead notebook. This corrects the earlier unexplained brief without establishing demand, nutrition competence or willing test participants.
+
+- **2026-10-27 — Food-assistant trial access clarified.** The user says friends can be recruited for the first trial and limits that first run to friends. This is self-reported access, not confirmed participation or demand. Prior assistant dissatisfaction is recorded in [R001](opportunities/personal-food-assistant/results/R001-founder-assistant-experience.md), with product/setup unknown.
+
+- **2026-10-27 — Android and personal product trial clarified.** The user identifies ordinary phone ChatGPT/Claude use, uses Android, and is happy to try relevant existing products before reporting gaps. This clarifies R001 rather than adding a customer or completed test. First recruited group remains friends only.
 
 Future material changes belong here as short dated notes identifying the new user statement or supporting artifact. Current sections carry the latest information.
