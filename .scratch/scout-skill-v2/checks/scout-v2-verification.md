@@ -2,6 +2,8 @@
 
 Date: 2026-10-29. Owner: Codex. Supports [Update and verify the agreed scout version 2](../issues/07-update-verify-scout.md).
 
+**Follow-up, 2026-10-30:** real-run feedback exposed a gap not caught by these fixtures: unread supplied links and required current-platform coverage were treated as optional. The historical results below are preserved; the [source-coverage correction](../issues/13-enforce-source-coverage.md) and its verification supersede that behavior. These earlier bounded passes did not establish reliable compliance.
+
 ## Scope and method
 
 Updated the existing scout and its routed discovery/delegation instructions, assessment/report templates, shared evidence guidance, opportunity handoff template, workflow map and founder preferences. Consolidated selected websites, 22 creator candidates, conditional resources and dated access states in the existing [source catalog](../../../docs/startup-skills/source-catalog.md). Existing quick-product/client-work corrections and unrelated worktree edits were retained. No historical opportunity or campaign was relabeled.

@@ -1,4 +1,4 @@
-Repeatable assessment section inside the single `scouting-runs/<run-id>.md` file, not a separate output file. Follow the [depth standard](../references/discovery.md#what-counts-as-deep-research) and [record guide](../../../../docs/startup-skills/record-guide.md). Replace placeholders and remove these instructions. Each counted idea needs substantive research; headings and source lists alone are insufficient. Resolve links from the run file and use unique lowercase anchors such as i001, i001-e001 and i001-c001.
+Repeatable assessment section inside the single `scouting-runs/<run-id>.md` file, not a separate output file. Follow the [depth standard](../references/discovery.md#what-counts-as-deep-research), [explanation guide](../../../../docs/startup-skills/explaining-ideas.md) and [record guide](../../../../docs/startup-skills/record-guide.md). Replace placeholders and remove these instructions. Each counted idea needs substantive research; headings and source lists alone are insufficient. Resolve links from the run file and use unique lowercase anchors such as i001, i001-e001 and i001-c001.
 
 <a id="{{idea-anchor}}"></a>
 ### {{ID — Idea name}}
@@ -20,7 +20,7 @@ Assessment owner and acceptance: {{Worker or coordinator; integrated/accepted da
 
 #### Customer, offer and use
 
-{{Explain the audience, geography where relevant, motive and purchase occasion. Show the present work or experience, payer and approver, first offer and an explicitly imagined use. Mark inferred steps. Explain what one payment would buy and why use or sales might recur.}}
+{{Explain the audience, geography where relevant, motive and purchase occasion. Establish an unfamiliar activity's basic rules/workflow, then show an imagined use with literal input/output content and who does what next. Follow the explanation guide; a vague object such as “a diagram” or “a report” cannot replace the central action or result. Explain payer/approver, what one payment buys and why use or sales might recur. Mark inferred steps.}}
 
 #### Demand and current alternatives
 
@@ -42,7 +42,7 @@ Assessment owner and acceptance: {{Worker or coordinator; integrated/accepted da
 
 #### Delivery, founder fit and growth
 
-{{Assess feasibility and costs under the founder's planned AI-assisted production through separate skills or automations: inputs, integrations, proposed output checks, retries, tool costs, founder direction and customer work. Apply the commercial guide's AI-assisted production guidance; this assessment does not create the product or its assets. Cover domain learning, any grounded specialist dependency, time/budget fit and unassessed abilities. Explain how profit could grow beyond the entry offer and what would need to become true.}}
+{{Apply the shared production assessment through the commercial guide: for each material sellable output, explain the AI input/task/output, founder direction and correction, quality standard/check, actual evidence status, retries, tool costs and other dependencies. Distinguish directing AI revisions from manual production; examine the hardest content/quality task before claiming a fast build. This assessment does not create the product or its assets. Cover domain learning, grounded specialist needs, time/budget fit and unassessed abilities. Explain growth and what must become true.}}
 
 {{When adapting an overseas model for India fits the brief, compare the original buyer/offer with local demand, alternatives, price/payment, language, acquisition and delivery. Explain transfer assumptions and necessary changes; foreign traction is not Indian demand.}}
 

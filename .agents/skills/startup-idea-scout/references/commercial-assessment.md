@@ -69,11 +69,9 @@ Use low/high usage or support scenarios if these could reverse the result. A low
 
 ## AI-assisted production
 
-Assess the production plan stated in the founder profile. This founder intends to use separate skills or automations to create code, interfaces, artwork, animation, writing, audio and other digital resources with AI, while directing the work and handling customer conversations and business decisions. This is founder context, not a production task for the scout. Lack of manual coding, drawing, narration or writing experience alone is not a delivery disqualification. Identify what the founder needs to understand to specify and judge the result.
+Apply the shared [production assessment](../../../../docs/startup-skills/research-guide.md#assess-the-founders-production-workflow) to the actual sellable output: AI creation, founder direction/correction, quality evidence and full effort/cost. Preserve the founder's intended workflow instead of substituting manual creative work. Label a conventional-production alternative as an optional comparison.
 
-Assess a plausible creation workflow and its consequential unknowns: consistency across assets, editing and retries, integration, debugging, factual or specialist accuracy, rights/terms and customer acceptance where relevant. Where quality needs a representative output, recommend a check for the separate production workflow or assess supplied results; creating that output is outside the scout's scope. Neither AI availability nor a polished draft proves reliable paid delivery. AI used to build the business need not be an AI feature sold to customers.
-
-Budget for tool subscriptions or API credits, generation/rework, hosting, testing and founder direction/support time. Existing paid-tool access is unknown unless recorded. Prefer an AI-assisted baseline over assumed staff or commissions; label any conventional-production scenario as an optional comparison. Identify a human specialist dependency only when grounded in the actual task, explain its role and cost, and flag any conflict with the intended workflow rather than silently assuming a hire. AI production changes the delivery assessment, not the evidence of demand, differentiation or affordable acquisition.
+Before using fast preparation as a reason to rank an idea higher, examine its hardest quality/production dependency. A fixed download can be easy to distribute while its content is difficult to make useful or entertaining. If that dependency remains untested, qualify the speed advantage and identify the needed production check; a short code-build estimate cannot decide the comparison. Pass the same dependency into the explanation, costs and investigator handoff.
 
 ## Compare the researched pool
 

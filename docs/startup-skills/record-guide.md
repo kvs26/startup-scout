@@ -32,7 +32,7 @@ Profile changes use its short source/change notes. Dated opportunity rounds and 
 
 Keep each opportunity in `opportunities/<stable-name>/`, with its name and folder identity in `summary.md`. Search existing summaries before creating a folder. A price or feature revision stays in the same record. A different customer group or problem gets a linked sibling folder when it needs its own investigation; explain the relationship and retain each observation's original context.
 
-When writing a summary or comparison's product explanation, follow [explaining ideas](explaining-ideas.md) and complete its comprehension check. Explain the business before the research findings; keep detailed evidence in its owning record.
+When writing a summary, a comparison or product explanations in research and chat, read [explaining ideas](explaining-ideas.md) before drafting and pass its comprehension check before finalizing. Explain the experience before the research findings; keep detailed evidence/calculations in their owning records and their decision implications in the summary. A summary need not repeat each topic under a separate heading.
 
 Use readable Markdown and add files only when they contain useful work:
 

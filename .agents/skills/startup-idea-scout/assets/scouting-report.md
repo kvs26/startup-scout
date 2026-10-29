@@ -4,7 +4,7 @@ Template for the single `scouting-runs/<run-id>.md` file for a scouting session/
 
 Run: {{unique dated ID}}  
 Brief and mode: {{User request and constraints; open discovery / supplied idea / continuation / named comparison}}  
-Campaign status: {{awaiting scope selection / research incomplete / complete}}
+Campaign status: {{awaiting scope selection / awaiting source material or clarification / research incomplete / complete}}
 
 Research target: {{At least 50 distinct deep assessments for open discovery; record any explicit scope override and its source}}  
 Completed deep assessments: {{Actual verified count; separate in-progress, screened, duplicate and excluded totals}}  
@@ -21,9 +21,11 @@ Founder profile: {{Reference/date and relevant constraints}}
 
 ### Source coverage and assignments
 
-| Source role / assigned worker or sequential owner | Sources actually inspected and findings | Access state, omissions and fallback | Next work / returned / integrated |
-| --- | --- | --- | --- |
-| {{Relevant role; explain skipped roles}} | {{Canonical evidence links; distinguish article, synopsis, metadata, transcript and audiovisual inspection}} | {{Checked date; breadth-only or essential gap; precise linked request if useful}} | {{Discovery versus assessment assignment, idea IDs, temporary return integrated or still pending}} |
+{{Before candidate research, record the source-readiness result, each supplied link/attachment and whether it is understood, partial or unread. Record any clarification request, explicit user scope change and whether research is paused. A supplied new unread link remains visible even when older reference notes exist.}}
+
+| Source obligation or supplied reference / owner | Required or optional, why and material needed | Sources actually inspected and findings | Access state, omissions and fallback | Next work / returned / integrated |
+| --- | --- | --- | --- | --- |
+| {{Role/platform or exact supplied link; explain omitted roles}} | {{Tie to category/audience/angle; transcript, slides, relevant video/audio, dated trends, etc.}} | {{Canonical evidence links, selection/query window; distinguish article, synopsis, metadata, transcript and audiovisual inspection}} | {{Inspected / partial / unread / searched with no relevant results; check date, actual omission, precise request or explicit user scope change}} | {{Discovery versus assessment assignment, idea IDs, temporary return integrated or still pending}} |
 
 {{Use the delegation guide. Record accepted counts after each returned batch, candidate merges and shared observations, plus challenges by a different worker or a labeled coordinator pass. Retain all useful material and resume tasks here so an old worker or temporary file is not required to continue.}}
 
@@ -39,11 +41,13 @@ Founder profile: {{Reference/date and relevant constraints}}
 
 ## Recommendation or top discussion options
 
+{{Lead this section and the chat result with material required-source coverage and access limits. Name the required platforms actually explored and inspection modality, any supplied links still unread and the effect on the conclusion. Missing required coverage means an incomplete campaign and provisional options, even with 50 accepted assessments.}}
+
 {{For a completed campaign with a positive recommendation, explain the strongest idea, link its opportunity folder and explain why it leads its closest alternatives. Also include 3–5 other top ideas in the brief runners-up section below and in the final chat response. For a completed campaign with no positive recommendation, explain the top 3–5 researched discussion options here and in the final response; retain them in scouting records until selected. Do not replace that shortlist with only a search-failure diagnosis. A partial campaign may show provisional leaders with its incomplete count, never a claimed final best-of-50 result.}}
 
 ### {{Recommended idea or discussion option ID and name}}
 
-{{Use the accepted plain-language order: best idea (customer/offer/imagined use); how you could earn (customer route/payment/costs); what it takes (work/learning/time); why it leads (support/doubts/current alternative); alternatives below; next step below. Use short sentences. Keep detailed calculations and source contributions in the assessment sections; include doubts that change the decision in this explanation. Repeat concise explanations for 3–5 discussion options if no winner qualifies.}}
+{{Use the accepted plain-language order: best idea (customer/offer/imagined use); how you could earn (customer route/payment/costs); what it takes (work/learning/time); why it leads (support/doubts/current alternative); alternatives below; next step below. Establish unfamiliar rules/workflows and literal example contents before discussing the business. Explain AI creation, founder direction and unresolved quality work when judging speed/fit. Pass the explanation guide's comprehension check. Keep detailed calculations and source contributions in the assessment sections; retain their decision implications here. Repeat concise explanations for 3–5 discussion options if no winner qualifies.}}
 
 **Recommendation:** {{Scout judgment, conditions and uncertainty; a fallback discussion option is not automatically endorsed.}}
 
@@ -57,7 +61,7 @@ Founder profile: {{Reference/date and relevant constraints}}
 
 {{State the verified distinct accepted count and how every counted assessment passed the eight depth requirements. Distinguish inaccessible evidence, private buying questions and unperformed work. Name duplicate ideas and observations merged, freshness issues, chosen-scope diversity, coverage limits and unresolved comparison questions. Link focused finalist challenges and their resolution; identify reviewer independence accurately.}}
 
-{{If complete: explain why research is sufficient for this comparison and what still needs customer testing. If incomplete: explain the interruption or constraint, count, affected ideas and precise remaining work. No early favourite, budget exhaustion or long report establishes completion.}}
+{{Reconcile every required source obligation and supplied reference against inspected evidence or an explicit user scope change. If complete: explain why research is sufficient for this comparison and what still needs customer testing. If incomplete: explain the interruption or constraint, count, affected ideas, missing coverage and precise remaining work. No early favourite, idea count, budget exhaustion or long report establishes completion by itself.}}
 
 ## Resume or investigate
 

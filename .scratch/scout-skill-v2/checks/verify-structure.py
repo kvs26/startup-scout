@@ -11,10 +11,11 @@ from urllib.parse import unquote, urlsplit
 ROOT = Path(__file__).resolve().parents[3]
 FILES = sorted((ROOT / '.agents/skills/startup-idea-scout').rglob('*.md')) + [
     ROOT / name for name in [
-        'SKILL-MAP.md', 'FOUNDER-PROFILE.md', 'CONTEXT.md',
+        'SKILL-MAP.md', 'FOUNDER-PROFILE.md', 'CONTEXT.md', 'SETUP.md',
         'docs/startup-skills/source-catalog.md',
         'docs/startup-skills/research-guide.md',
         'docs/startup-skills/record-guide.md',
+        'docs/startup-skills/explaining-ideas.md',
         'docs/startup-skills/tools.md',
         'docs/startup-skills/templates/scouting-report.md',
         'docs/startup-skills/templates/opportunity-summary.md',
@@ -23,6 +24,17 @@ FILES = sorted((ROOT / '.agents/skills/startup-idea-scout').rglob('*.md')) + [
         '.scratch/scout-skill-v2/map.md',
         '.scratch/scout-skill-v2/issues/07-update-verify-scout.md',
         '.scratch/scout-skill-v2/checks/scout-v2-verification.md',
+        '.scratch/scout-skill-v2/issues/13-enforce-source-coverage.md',
+        '.scratch/scout-skill-v2/issues/14-research-youtube-instagram-access.md',
+        '.scratch/scout-skill-v2/issues/15-make-explanations-understandable.md',
+        '.scratch/scout-skill-v2/youtube-instagram-access-research.md',
+        '.scratch/scout-skill-v2/checks/creator-access-2026-10-30.md',
+        '.scratch/scout-skill-v2/checks/source-coverage-2026-10-30.md',
+        '.scratch/scout-skill-v2/checks/readability-2026-10-30.md',
+        'opportunities/blind-presentation-party/summary.md',
+        'opportunities/blind-presentation-party/research.md',
+        'opportunities/blind-presentation-party/history.md',
+        'opportunities/blind-presentation-party/rounds/2026-10-30-explanation-correction.md',
     ]
 ]
 

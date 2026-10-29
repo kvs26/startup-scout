@@ -9,6 +9,8 @@ Update and verify the existing startup-idea-scout skill with opening questions t
 
 ## Notes
 
+- **Explanation correction completed 2026-10-30:** updated the shared explanation/production contracts, scout/investigator instructions and summary template; repaired blind-presentation-party with preserved history and independent reading/writing checks. Supadata/Apify connection work is explicitly deferred until the user returns to it.
+- **Follow-up completed 2026-10-30:** the user reopened the map after real-run feedback exposed missing required creator coverage and undisclosed unread supplied Instagram links. The source-coverage correction and access investigation below deliver the requested instruction changes and researched routes. Account connection and successful content retrieval remain unverified; this closeout does not claim that access was fixed.
 - **Completed 2026-10-29:** the agreed update and bounded verification are delivered in [Update and verify the agreed scout version 2](issues/07-update-verify-scout.md#answer). Earlier notes below preserve the effort's starting constraints; no decision ticket remains open. Real campaigns and later source feedback follow this completed update.
 - **Execution override, requested 2026-10-28:** the user explicitly asks this map to research AND update the scout skill. This extends wayfinder beyond its planning default; the implementation task belongs inside this map after the human decisions. Version 2 is an evolution of the existing skill, not a second competing skill unless a later decision establishes a need.
 - **User direction:** use a decent breadth of sources, investigate YouTube/Instagram creators who discuss business ideas and gigs, distinguish gigs/small businesses/larger startup possibilities, and use subagents assigned to source categories during scouting. Exact labels, priority, source coverage and delegation rules are open decisions. The user liked the researched website list; that is not approval of every provider or paid integration.
@@ -46,9 +48,15 @@ Update and verify the existing startup-idea-scout skill with opening questions t
 
 - [Update and verify the agreed scout version 2](issues/07-update-verify-scout.md#answer): implemented opening menus, category research, evidence/report/handoff contracts and the consolidated catalog; structural and bounded behavioral checks completed with limitations recorded.
 
+- [Research usable YouTube and Instagram access for scouting](issues/14-research-youtube-instagram-access.md#answer): official limits and free Apify/Supadata pilot routes documented; vidIQ unavailable by administrator policy, browser/direct reads failed, and no end-to-end creator-content route verified.
+
+- [Enforce required source coverage and disclose unread inputs before research](issues/13-enforce-source-coverage.md#answer): category/source readiness and immediate unread-input disclosure now gate research and comparison; five bounded behavioral cases and structural validation passed.
+
+- [Make opportunity explanations understandable and assess AI production before ranking](issues/15-make-explanations-understandable.md#answer): concrete experience/retelling checks, a simpler summary outline and explicit AI-production dependencies implemented; blind-presentation-party corrected and independently checked.
+
 ## Not yet specified
 
-None remains for this destination. Verification exposed no new design decision; optional retrieval limitations and historical-record compatibility are recorded in the implementation resolution.
+None remains for the requested source and explanation instruction repairs. Actual provider connection and a successful pilot are still needed before claiming reliable creator-platform access; that work is deferred until the user returns to it. The research resolution records the concrete next step and remaining setup choices. No connection or paid plan is silently selected by closing these tickets.
 
 ## Out of scope
 
@@ -56,4 +64,4 @@ None remains for this destination. Verification exposed no new design decision; 
 - Building a startup product, publishing content or contacting creators/customers. Source-API setup is in scope; paid activation requires a concrete service and budget decision.
 - Replacing the investigator/customer-connect workflow; update shared contracts only where scout changes require it.
 - Bulk relabeling or migration of historical opportunities: not needed for this update; existing records remain readable under the shared record guide. Revisit only for a separately requested comparison or migration need.
-- Future source additions and integrations prompted by real-run feedback: no mandatory gap remains for this update; the user will identify further needs after use.
+- Other future source additions and integrations remain outside this update. The user-requested YouTube/Instagram reliability correction on 2026-10-30 is now in scope under the reopened destination.
