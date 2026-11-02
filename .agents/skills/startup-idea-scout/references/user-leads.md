@@ -9,6 +9,10 @@ This is the user's notebook for ideas, personally experienced problems and outsi
 | [Consumer products and existing spending](#consumer-products-and-existing-spending) | Carousel inspiration; a completed consumer-app scouting run is linked below. No user selection recorded. |
 | [Useful skills and Markdown packages](#skills-package-lead) | Saved user interest; not selected for investigation here. |
 | [Responding to bank-requested KYC](#bank-requested-kyc-lead) | Saved user account and automation interest; workflow and demand remain unverified. |
+| [Fictional celebrity experience](#fictional-celebrity-experience) | Liked and explicitly retained 2026-11-01 for the next choosing round; not selected for building or investigation. |
+| [Dream-to-video](#dream-to-video) | Liked and retained 2026-11-01; later deferred for the current run when the user excluded video-generating tasks. Paid demand remains unestablished. |
+| [Me time, quiet and personal direction](#me-time-and-personal-direction) | Retained 2026-11-01 alongside playful focus for a later choosing round; no solution selected. Current batch shifts to entertainment additions below. |
+| [Fun additions to social media and games](#social-gaming-additions) | Current interactive batch, 2026-11-01: enjoyment, sharing and traffic before monetization; explicitly not productivity tools. |
 | [Deciding what to eat](#deciding-what-to-eat) | Clarified 2026-10-24: personal food assistant learning taste, sensitivities, health goals and budget, especially for delivery ordering. Focused scout assessment saved below; earlier meal-rotation hypothesis does not represent the supplied idea. |
 
 Source note for the two Instagram posts below: received and inspected on 2026-10-18. Both captions and all 15/12 carousel slides were read through the browser after the web reader failed to retrieve the supplied links. Recheck current products and commercial claims during an actual scouting round.
@@ -59,3 +63,56 @@ Source: the user's answers to the eleven interview questions in this conversatio
 Related work: [focused supplied-idea scout, with 2026-10-25 capability comparison](../../../../scouting-runs/2026-10-24-personal-food-assistant.md#2026-10-25--comparison-against-the-actual-requirement) and [personal food assistant opportunity](../../../../opportunities/personal-food-assistant/summary.md). Current task is competitor capability comparison. Further investigation should benchmark the closest existing assistants before proposing a new build. No customer test or product build has occurred.
 
 These entries supply choices for the scout's [scope-selection step](discovery.md#choose-the-search-areas). Once the user chooses, apply the relevant discovery or supplied-idea path within that scope. Assess evidence, costs, acquisition and founder requirements when research is requested; saving a lead or personally experiencing a problem does not establish market demand.
+
+
+## Entertainment directions retained for the next choosing round
+
+Source: the user's checkpoint-1 answer in the November 1 interactive search. They liked E and F and explicitly said to save them for the next choosing round. They disliked/confused A–D and requested stronger evidence of actual demand. This records interest and retention, not a final business choice, commercial recommendation or customer validation. Continue the same campaign rather than launching a new search from this notebook entry.
+
+<a id="fictional-celebrity-experience"></a>
+**E — Fictional celebrity experience:** a short imagined experience of being famous, posting and seeing simulated fans/rivals react. The five-turn format is the scout's proposal, not a founder-imposed product specification. Preserve the full current explanation, evidence and unknowns in the [canonical run](../../../../scouting-runs/2026-11-01-interactive-mass-entertainment.md#lead-e). Keep this in the next choosing round.
+
+<a id="dream-to-video"></a>
+**F — Dream-to-video:** describe a remembered dream and receive a short generated scene to review and share. This is a creative rendering of a description. Preserve the full current explanation, competitors and unknowns in the [canonical run](../../../../scouting-runs/2026-11-01-interactive-mass-entertainment.md#lead-f). Historically retained for the next choosing round; now deferred in the current run under the later exclusion of video-generating tasks. No substantial paid demand for our particular version has yet been established.
+
+<a id="me-time-and-personal-direction"></a>
+## Me time, quiet and personal direction
+
+**Source:** the user's November 1, 2026 interactive-checkpoint reply. **Status:** priority problem for [the current scouting run](../../../../scouting-runs/2026-11-01-interactive-mass-entertainment.md), not a chosen business or proof of market demand.
+
+The user's account is that social media occupies people's time, leaving too little “me time.” They include themselves in the problem. They believe the lack of free, unfilled time prevents people from being bored, exploring themselves and living their sense of purpose more fully. They ask for proper research on this problem while also exploring multiple other directions. Preserve the personal-space and meaning motive; do not silently substitute getting more work done.
+
+At the initial account, no time-use baseline, specific incident, attempted solution, payment history, willingness to pay or precise intervention had been supplied. Subsequent answers below add triggers and attempted fixes; no numeric baseline or buying commitment is established. Earlier possible explanations were interview hypotheses, not new facts about the user. Psychological outcomes and the role of boredom require evidence; no promise to discover someone's purpose is established.
+
+The same reply excludes video-generating tasks from this run and sets aside the unclear song/photo-video pitches. The saved dream-to-video direction remains historical interest but is deferred under that exclusion; the fictional-celebrity direction remains saved. No outreach, product generation or live experiment is authorized by scouting.
+
+### Further personal account — November 1, 2026
+
+The user clarified that the problem is a mixture. They sometimes know they are wasting time but continue watching random YouTube/Instagram shorts despite not liking shorts. They report feeling restless or disconnected, describe corporate daily life as a cycle, and say even weekends feel rushed to enjoy as much as possible while the fun feels temporary. They also name procrastination. They explicitly ask for more questions.
+
+This corrects any interpretation of a single selected MCQ answer. It does not establish a clinical condition, a general population fact, a desire for therapy, or that a blocker/hobby sampler is the right product. In particular, giving more activities to complete could repeat the pressure to maximize leisure. The three follow-up questions about triggers, desired improvement and attempted fixes have now been answered below and in the canonical run. No product has been selected. No new budget, weekly time or build authorization.
+
+
+### Answered attempts and external-research priority — November 1, 2026
+
+Source: subsequent MCQ and free-text replies in the same conversation. Full questions and verbatim answers remain in the [canonical interactive run](../../../../scouting-runs/2026-11-01-interactive-mass-entertainment.md#last-personal-follow-up--answered-shift-to-external-evidence).
+
+- **Triggers reported:** postponing a task, tiredness after work, and opening useful YouTube before drifting into shorts. The user did not select having nothing worthwhile to do.
+- **Desired change:** regular time for things cared about outside work and enjoyable quiet, plus the reward of fewer but focused hours of good work. Preserve all three; this is broader than productivity or filling free time with activities.
+- **Attempted fixes:** deleted apps, but shifted to anime/series or other entertainment. Retained YouTube for useful work and named recommendations as a trigger. Says deletion/limiting helps for days and then wears off. This is a personal account, not measured total use or proof of a particular cause.
+- **What helps personally:** caring about the task and a clear, small next step. Reports forcing an initial 15–20 minutes of focus, even inefficiently, after which working can become easier. No specific task, objective timing experiment or universal threshold was supplied.
+- **Explicit research request:** “Now also research from other people experince and research in general not just my opinions”. Give independent original experiences, contrary outcomes and primary research more weight in the next batch; another personal interview is not required to continue. This does not cancel the preference for brief interactive findings/MCQs when a concrete research choice would benefit from feedback.
+
+Working interpretation of wanting to detach “for some long time”: a change that persists beyond the first few days. The user has not confirmed a request for weeks of complete disconnection. No clinical condition, guaranteed purpose discovery, chosen app/course or willingness to pay is established. The current run records actual payer accounts, free alternatives, mixed task-initiation findings and follow-up limits. Continue the same scouting campaign; these answers do not authorize production or a live intervention.
+
+
+<a id="social-gaming-additions"></a>
+## Fun additions to social media and games
+
+**Source:** November 1, 2026 research-direction MCQ reply: “keep one and 2 and again do some searching about broader entertainment, something that might be some extension to people who use lot of social media or games so some kindof extention for them - so for this I'm not suggesting productively tools but something that will get popular among these people and we can get lot of traffic and then we will also think some monetization idea around them”.
+
+**Status:** A/N004 screen pets now selected for focused [opportunity investigation](../../../../opportunities/playful-screen-companion/summary.md), continuing from the [same interactive run](../../../../scouting-runs/2026-11-01-interactive-mass-entertainment.md#entertainment-additions-for-social-media-users-and-gamers--checkpoint-5). B/N005 group rankings is set aside for now. Keep lasting me-time and playful focus saved; do not lose the earlier fictional-celebrity interest. Dream-to-video remains deferred under the current exclusion of video generation. No platform, creature style or build selected.
+
+Interpret “extension” broadly as an enjoyable addition to an existing media/game habit; a literal browser extension is eligible but not mandatory. User explicitly excludes productivity pitches for this batch. Prioritize appealing use, sharing, repeat visits and a plausible traffic path, with monetization considered afterward. This overrides requiring immediate subscriptions or paid validation to explore this phase; it does not erase the financial objective or budget, guarantee traffic, or establish an advertising business. Research actual products and original experiences independently, and ask brief MCQ feedback about clearly explained researched examples.
+
+Earlier example feedback was **“A and B”**, retaining the creature (N004) and group comparison (N005) for follow-up. The gaming-story card (N006) was unchosen; no permanent rejection inferred. In the later design-context replies, the user says **“research all which is more in demand”** for the mischievous, quiet/reactive and personal/custom styles, and **“let's drop this idea for now and focus on A properly”** for B. These actual answers supersede the pending-question state: compare all A styles using independent behavior, set B aside for now and continue focused investigation. They do not select a preferred style, platform, payment model or build. The bounded demand comparison and next uncertainties are in the [selected opportunity](../../../../opportunities/playful-screen-companion/summary.md); prior evidence stays in [checkpoint 6](../../../../scouting-runs/2026-11-01-interactive-mass-entertainment.md#follow-up-on-the-two-liked-experiences--checkpoint-6). The original discovery pool remains incomplete at six of fifty. No build, signups, purchases, promotion or live experiment occurred.

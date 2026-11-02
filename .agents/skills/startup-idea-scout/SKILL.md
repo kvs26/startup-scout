@@ -32,6 +32,8 @@ Assess the founder's planned AI production through separate skills or automation
 
 **Before candidate research in every mode, follow the [source-readiness check](references/source-readiness.md).** Match required sources to the chosen category and question, inspect supplied references, and verify access to the needed content. Disclose unread/partial supplied links and required-source failures immediately; pause for the missing material, clarification or an explicit scope change. The user may provide screenshots, a transcript or a recording. Other websites and old interview transcripts do not satisfy an unfulfilled platform or current-trend requirement.
 
+Use [interactive discovery checkpoints](references/discovery.md#interactive-discovery-checkpoints) when requested or preferred in the founder profile: share brief, concrete findings and collect MCQ feedback between research batches, before the final comparison.
+
 Ask only for missing brief choices or consequential ambiguity. While waiting for scope or required material, prepare local menus, check access and record known context; begin candidate research after the brief and source-readiness check pass. Tell the user where research is starting and update findings and the next decision-changing check. Scouting authorizes no outreach, purchases or live customer experiments.
 
 ## Investigate the commercial case

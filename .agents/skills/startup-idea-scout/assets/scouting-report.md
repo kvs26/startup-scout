@@ -29,6 +29,10 @@ Founder profile: {{Reference/date and relevant constraints}}
 
 {{Use the delegation guide. Record accepted counts after each returned batch, candidate merges and shared observations, plus challenges by a different worker or a labeled coordinator pass. Retain all useful material and resume tasks here so an old worker or temporary file is not required to continue.}}
 
+## Interactive feedback checkpoints
+
+{{When interactive discovery is requested or preferred, record each checkpoint's brief concrete findings, supporting evidence links and limits, displayed MCQs, actual answers or pending status, and how the next batch changes. Distinguish leads from completed assessments, taste from comprehension, and temporary search direction from lasting preferences.}}
+
 ## Assessment index and full comparison
 
 {{One row per idea with a link to its assessment anchor in this file, such as #i001. Every counted row must meet the depth standard. Keep partial/screened/duplicate rows separately below. Compare the whole completed pool; do not choose a winner after only the easiest few. Use judgment with stated uncertainty, not a fabricated aggregate score.}}

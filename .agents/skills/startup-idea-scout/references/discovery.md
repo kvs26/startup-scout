@@ -24,6 +24,18 @@ Save displayed options, answers/delegation, preferences versus hard exclusions a
 
 For a new chat resuming a campaign, show its saved brief and continue under that instruction; do not repeat the questionnaire. Reconcile requested constraint changes with retained assessments, mark affected work for recheck, and update the count rather than silently applying old findings to a different brief. Ask only about consequential ambiguity. A supplied specific idea or named saved comparison needs only relevant clarification. Saving a lead alone updates the notebook without starting discovery.
 
+## Interactive discovery checkpoints
+
+When the user requests an interactive run, or the founder profile records that preference, research in short rounds that the user can steer. Reuse the supplied brief; opening menus fill material gaps rather than repeat settled choices.
+
+Bring an early checkpoint before a long unattended research phase. Show a few concrete hooks or provisional products, each through one imagined action and result, what the inspected evidence supports, and its main commercial doubt. A hook explains what makes someone try, return, invite another person or share the result. Separate a proposed product from the existing example that inspired it, and attention from payment evidence. Lead discovery can support a checkpoint while counting as zero completed deep assessments.
+
+After explaining the findings, ask one or two concise single-choice MCQs whose answers can change the next research batch. Use concrete alternatives from the findings, allow free text and include a meaningful way to reject or broaden the set. If an idea was disliked or confusing, distinguish those reactions before treating either as a market verdict or a permanent exclusion. Ask about the user's preferences; keep competitor discovery and evidence assessment with the scout.
+
+Give the user a real opportunity to answer. Continue independent checks while an optional question is pending, but wait for answers that determine scope before committing the next dependent batch. Silence and preselected options supply no answer. Record each checkpoint's examples, evidence links, exact questions, answers, and resulting changes in the same run file. Keep campaign-specific reactions there; update the founder profile only for lasting preferences or explicit corrections.
+
+Repeat checkpoints when findings introduce a consequential choice or the user asks to redirect. Label provisional findings and retain the actual accepted count. Interactive rounds preserve the full research minimum and final comparison unless the user explicitly reduces scope. When yielding for feedback, save an incomplete checkpoint with the precise resume task; never imply that research continues after the turn ends.
+
 ## Choose the search areas
 
 When areas are missing, read the [industry atlas](../../../../industry-atlas/index.md), [user's lead notebook](user-leads.md), founder profile and recent runs:
